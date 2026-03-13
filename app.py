@@ -1,5 +1,6 @@
 import os
 import io
+import json
 import traceback
 from flask import Flask, request, jsonify, render_template
 from google.cloud import dialogflow_v2 as dialogflow
@@ -30,13 +31,21 @@ load_dotenv()
 app = Flask(__name__, static_folder='static', template_folder='templates')
 
 try:
-    # --- Google Cloud Services ---
+    # --- Google Cloud Services Authentication for Vercel ---
+    firebase_creds_json = os.environ.get('FIREBASE_CREDENTIALS')
+    
+    if firebase_creds_json:
+        # Vercel environment: Write the secret string to a temporary serverless file
+        tmp_key_path = '/tmp/serviceAccountKey.json'
+        with open(tmp_key_path, 'w') as f:
+            f.write(firebase_creds_json)
+        os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = tmp_key_path
+    else:
+        # Local development environment: Use your physical file
+        os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = 'serviceAccountKey.json'
+
     GCLOUD_PROJECT = os.getenv("GCLOUD_PROJECT")
     db = firestore.Client()
-    
-    # --- Set path to your Service Account Key ---
-    SERVICE_ACCOUNT_FILE = 'serviceAccountKey.json' 
-    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = SERVICE_ACCOUNT_FILE
     
     # --- Pinecone ---
     PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
@@ -68,7 +77,6 @@ def index():
 
 @app.route('/webhook', methods=['POST'])
 def webhook():
-    # This function remains for simple text queries, but is not used by the new file upload logic
     req = request.get_json(force=True)
     user_query = req.get('queryResult', {}).get('queryText', '')
     session_id = req.get('session', 'default-session').split('/')[-1]
@@ -101,21 +109,14 @@ def webhook():
         traceback.print_exc()
         return jsonify({'fulfillmentText': "Sorry, I encountered a server error."})
 
-# --- NEW: WEBHOOK V2 FOR HANDLING FILE CONTEXT ---
 @app.route('/webhook_v2', methods=['POST'])
 def webhook_v2():
-    """
-    A more robust webhook that can handle structured data like file context
-    sent from the frontend.
-    """
     req = request.get_json(force=True)
     
-    # Extract data from the new structured format
     user_query = req.get('queryInput', {}).get('text', {}).get('text', '')
     session_id = req.get('session', 'default-session').split('/')[-1]
     language_code = req.get('queryInput', {}).get('text', {}).get('languageCode', 'en')
     
-    # Check for file context in the payload
     file_context = None
     file_name = None
     if 'queryParams' in req and 'payload' in req['queryParams']:
@@ -127,12 +128,10 @@ def webhook_v2():
         print(f"   📎 With context from file: {file_name}")
 
     try:
-        # If there's file context, go directly to the expert brain (Gemini RAG)
         if file_context:
             print("   📄 File context found. Routing directly to Expert Brain (Gemini RAG)...")
             response_text = get_gemini_rag_response_with_context(user_query, file_context)
         else:
-            # Otherwise, use the standard Dialogflow intent matching flow
             dialogflow_response = detect_intent_texts(GCLOUD_PROJECT, session_id, user_query, language_code)
             intent_name = dialogflow_response.query_result.intent.display_name
             print(f"   ✅ Dialogflow matched intent: '{intent_name}'")
@@ -152,7 +151,7 @@ def webhook_v2():
         return jsonify({'fulfillmentText': "Sorry, I encountered a server error."})
 
 
-# --- VOICE ENDPOINTS (Unchanged) ---
+# --- VOICE ENDPOINTS ---
 @app.route('/recognize', methods=['POST'])
 def recognize():
     audio_data = request.json.get('audioData')
@@ -227,11 +226,11 @@ def upload_file():
             extracted_text = extract_text_from_image(content)
         elif 'pdf' in mime_type:
             extracted_text = extract_text_from_pdf(content)
-        elif 'presentationml' in mime_type: # For .pptx
+        elif 'presentationml' in mime_type: 
             extracted_text = extract_text_from_pptx(content)
-        elif 'wordprocessingml' in mime_type: # For .docx
+        elif 'wordprocessingml' in mime_type: 
             extracted_text = extract_text_from_docx(content)
-        elif 'spreadsheetml' in mime_type: # For .xlsx
+        elif 'spreadsheetml' in mime_type: 
             extracted_text = extract_text_from_xlsx(content)
         elif 'text' in mime_type:
             try:
@@ -253,17 +252,15 @@ def upload_file():
 def process_drive_file():
     req_data = request.get_json()
     file_id = req_data.get('fileId')
-    access_token = req_data.get('accessToken') # <-- Get the user's token from the request
+    access_token = req_data.get('accessToken') 
 
     if not file_id or not access_token:
         return jsonify({'error': 'Missing fileId or accessToken'}), 400
 
     try:
-        # ✅ Create credentials directly from the user's temporary access token
         creds = Credentials(token=access_token)
         drive_service = build('drive', 'v3', credentials=creds)
 
-        # The rest of the function works exactly as before
         file_metadata = drive_service.files().get(fileId=file_id, fields='mimeType, name').execute()
         mime_type = file_metadata.get('mimeType')
         print(f"\n📄 Received Drive file from user: {file_metadata.get('name')} ({mime_type})")
@@ -277,7 +274,6 @@ def process_drive_file():
         
         content = file_content_io.getvalue()
         
-        # File type processing logic remains the same
         if 'image' in mime_type:
             extracted_text = extract_text_from_image(content)
         elif 'pdf' in mime_type:
@@ -317,7 +313,6 @@ def extract_text_from_pdf(content):
     return text
 
 def extract_text_from_pptx(content):
-    """Uses python-pptx to extract text from PPTX bytes."""
     text = ""
     with io.BytesIO(content) as f:
         prs = Presentation(f)
@@ -328,7 +323,6 @@ def extract_text_from_pptx(content):
     return text
 
 def extract_text_from_docx(content):
-    """Uses python-docx to extract text from DOCX bytes."""
     text = ""
     with io.BytesIO(content) as f:
         document = docx.Document(f)
@@ -337,7 +331,6 @@ def extract_text_from_docx(content):
     return text
 
 def extract_text_from_xlsx(content):
-    """Uses openpyxl to extract text from XLSX bytes."""
     text = ""
     with io.BytesIO(content) as f:
         workbook = load_workbook(f)
@@ -391,10 +384,6 @@ def get_gemini_rag_response(query):
         return "Sorry, I encountered an error with my advanced knowledge base. Please ensure billing is enabled for the project."
 
 def get_gemini_rag_response_with_context(query, file_context):
-    """
-    Generates a response from Gemini using both the context from a Pinecone search
-    AND the context from an uploaded file.
-    """
     try:
         print("   🧠 Querying Pinecone for related context...")
         query_embedding = genai.embed_content(model=gemini_embedding_model, content=query, task_type="RETRIEVAL_QUERY")["embedding"]
@@ -424,8 +413,3 @@ def get_gemini_rag_response_with_context(query, file_context):
         print(f"❌ Gemini RAG (with context) Error: {e}")
         traceback.print_exc()
         return "Sorry, I encountered an error with my advanced knowledge base while analyzing the document."
-
-
-# --- 4. START THE SERVER ---
-#if __name__ == '__main__':
- #   app.run(debug=True, port=5000)
