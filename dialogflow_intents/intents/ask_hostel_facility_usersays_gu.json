@@ -1,0 +1,54 @@
+[
+    {
+        "id": "d4c6a547-e10b-4115-92ba-d2387781d5ef",
+        "data": [
+            {
+                "text": "શું છાત્રાલયની સુવિધા ઉપલબ્ધ છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "ef67fb25-0439-47eb-b8a5-7c7ac2fdaa7e",
+        "data": [
+            {
+                "text": "કોલેજના આવાસ વિશે મને કહો.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "794c9bad-b268-4f5b-9a08-603dba2ff2df",
+        "data": [
+            {
+                "text": "છાત્રાલયનો ચાર્જ શું છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "801fd4e2-f30d-4240-a1d7-a86cecbabb49",
+        "data": [
+            {
+                "text": "શું છાત્રાલયમાં મેસની સુવિધા શામેલ છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    }
+]

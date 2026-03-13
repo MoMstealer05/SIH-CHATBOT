@@ -1,0 +1,28 @@
+[
+    {
+        "id": "0829ecad-7a11-462d-a283-a8776c112959",
+        "data": [
+            {
+                "text": "કઈ વિદ્યાર્થી સમિતિઓ છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "1c2c194d-d88a-46e1-af56-b53a5a0e96ba",
+        "data": [
+            {
+                "text": "વિદ્યાર્થી સપોર્ટ વિશે મને કહો.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    }
+]

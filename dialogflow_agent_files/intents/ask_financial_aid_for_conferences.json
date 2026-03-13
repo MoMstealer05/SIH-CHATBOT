@@ -1,0 +1,12 @@
+{
+  "name": "ask_financial_aid_for_conferences",
+  "auto": true,
+  "webhookUsed": true,
+  "responses": [
+    {
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {}
+    }
+  ]
+}

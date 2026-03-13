@@ -1,0 +1,25 @@
+{
+    "id": "3af37121-a003-4d0e-a869-50ead92def00",
+    "name": "find_holidays_notices",
+    "auto": true,
+    "contexts": [],
+    "responses": [
+        {
+            "resetContexts": false,
+            "affectedContexts": [],
+            "parameters": [],
+            "messages": [
+                {
+                    "type": "message",
+                    "lang": "en",
+                    "speech": "Webhook response for find_holidays_notices."
+                }
+            ],
+            "defaultResponsePlatforms": {}
+        }
+    ],
+    "priority": 500000,
+    "webhookUsed": true,
+    "fallbackIntent": false,
+    "events": []
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "data": [
+      {
+        "text": "પરીક્ષાઓ માટે પાસિંગ માપદંડ શું છે?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "એક વિષયમાં પાસ થવા માટે કેટલા માર્ક્સની જરૂર છે?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "પાસિંગ ટકાવારી કેટલી છે?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

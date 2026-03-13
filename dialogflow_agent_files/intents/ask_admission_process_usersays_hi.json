@@ -1,0 +1,32 @@
+[
+  {
+    "data": [
+      {
+        "text": "मैं प्रवेश के लिए आवेदन कैसे करूं?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "प्रवेश प्रक्रिया क्या है?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "प्रवेश के लिए कौन से दस्तावेज़ आवश्यक हैं?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

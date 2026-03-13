@@ -1,0 +1,12 @@
+{
+  "name": "ask_wifi_access",
+  "auto": true,
+  "webhookUsed": true,
+  "responses": [
+    {
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {}
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "07e7389a-926c-4a3f-baa7-b3c72b6d8dce",
+    "name": "ask_eligibility_criteria",
+    "auto": true,
+    "contexts": [],
+    "responses": [
+        {
+            "resetContexts": false,
+            "affectedContexts": [],
+            "parameters": [],
+            "messages": [
+                {
+                    "type": "message",
+                    "lang": "en",
+                    "speech": "Webhook response for ask_eligibility_criteria."
+                }
+            ],
+            "defaultResponsePlatforms": {}
+        }
+    ],
+    "priority": 500000,
+    "webhookUsed": true,
+    "fallbackIntent": false,
+    "events": []
+}

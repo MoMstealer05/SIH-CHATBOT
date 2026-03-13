@@ -1,0 +1,32 @@
+[
+  {
+    "data": [
+      {
+        "text": "હું કોલેજનો સંપર્ક કેવી રીતે કરી શકું?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "કોલેજનો ફોન નંબર શું છે?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "સત્તાવાર ઇમેઇલ સરનામું શું છે?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

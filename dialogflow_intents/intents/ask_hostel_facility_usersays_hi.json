@@ -1,0 +1,54 @@
+[
+    {
+        "id": "fcf23714-fe73-40ad-9a29-c08dc5dbe391",
+        "data": [
+            {
+                "text": "क्या छात्रावास की सुविधा उपलब्ध है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "e5588819-d733-4453-99e4-ebcabb891585",
+        "data": [
+            {
+                "text": "कॉलेज आवास के बारे में बताएं।",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "69257eb9-74f3-483c-8a88-560a90188a42",
+        "data": [
+            {
+                "text": "छात्रावास का शुल्क क्या है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "eb8f9a47-1a21-40a8-b457-d9e3a0aaa1a1",
+        "data": [
+            {
+                "text": "क्या छात्रावास में मेस की सुविधा शामिल है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    }
+]

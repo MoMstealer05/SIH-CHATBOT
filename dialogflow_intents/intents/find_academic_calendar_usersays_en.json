@@ -1,0 +1,119 @@
+[
+    {
+        "id": "dbbbcec2-7ae6-461a-be1c-bbda6bda9036",
+        "data": [
+            {
+                "text": "Where can I find the academic calendar?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "459ceddc-6b02-40bc-8589-62e285ad97d2",
+        "data": [
+            {
+                "text": "Show me the academic calendar for this year.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "5c72b1ff-8c0e-42cf-91af-9139b2716902",
+        "data": [
+            {
+                "text": "I need the list of important academic dates.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "1ed6b1b8-ccf6-4537-9f2c-aab8e8afdc53",
+        "data": [
+            {
+                "text": "When does the semester start and end?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "96f1060d-40aa-4949-9e9c-d9977fb381e7",
+        "data": [
+            {
+                "text": "Academic schedule.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "134105a6-9806-4693-8ba6-19c165b29ffe",
+        "data": [
+            {
+                "text": "academic calendar kahan milega?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "789ca633-8d5e-4700-81cd-ac373cc18bb4",
+        "data": [
+            {
+                "text": "is saal ka academic calendar dikhao.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "983a5524-eac4-4bc9-8413-0db513ab0242",
+        "data": [
+            {
+                "text": "academic calendar kyathi malshe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "a539c2c9-792a-48d8-8b88-5ea2dd14462e",
+        "data": [
+            {
+                "text": "aa varsh nu academic calendar batavo.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    }
+]

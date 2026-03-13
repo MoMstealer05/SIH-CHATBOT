@@ -1,0 +1,28 @@
+[
+    {
+        "id": "2dd11b0a-e32e-4498-b383-be88f63f3a13",
+        "data": [
+            {
+                "text": "शुल्क संरचना क्या है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "8bbea066-5b12-4ce9-8696-50f5f3eeac0c",
+        "data": [
+            {
+                "text": "बी.टेक के लिए शुल्क विवरण दिखाएं।",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    }
+]

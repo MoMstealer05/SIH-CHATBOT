@@ -1,0 +1,25 @@
+{
+    "id": "5e7b6ad0-68a8-4824-8a9b-50ff665c3f74",
+    "name": "ask_library_timings",
+    "auto": true,
+    "contexts": [],
+    "responses": [
+        {
+            "resetContexts": false,
+            "affectedContexts": [],
+            "parameters": [],
+            "messages": [
+                {
+                    "type": "message",
+                    "lang": "en",
+                    "speech": "Webhook response for ask_library_timings."
+                }
+            ],
+            "defaultResponsePlatforms": {}
+        }
+    ],
+    "priority": 500000,
+    "webhookUsed": true,
+    "fallbackIntent": false,
+    "events": []
+}

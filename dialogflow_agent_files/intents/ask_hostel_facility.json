@@ -1,0 +1,12 @@
+{
+  "name": "ask_hostel_facility",
+  "auto": true,
+  "webhookUsed": true,
+  "responses": [
+    {
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {}
+    }
+  ]
+}

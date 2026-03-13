@@ -1,0 +1,364 @@
+{
+  "faqs": [
+    {
+      "intentName": "ask_office_hours",
+      "responseText": {
+        "en": "The administrative offices at CHARUSAT operate from 09:00 AM to 4:30 PM, Monday to Saturday (except public holidays and the 2nd & 4th Saturdays).",
+        "hi": "CHARUSAT के प्रशासनिक कार्यालय सुबह 09:00 बजे से शाम 4:30 बजे तक, सोमवार से शनिवार (सार्वजनिक छुट्टियों और दूसरे और चौथे शनिवार को छोड़कर) खुले रहते हैं।",
+        "gu": "CHARUSAT ખાતેની વહીવટી કચેરીઓ સવારે 09:00 થી સાંજે 4:30 સુધી, સોમવારથી શનિવાર (જાહેર રજાઓ અને બીજા અને ચોથા શનિવાર સિવાય) કાર્યરત રહે છે.",
+        "hi-en": "CHARUSAT ke prashasnik karyalay subah 09:00 baje se shaam 4:30 baje tak, Somvar se Shanivar (sarvajanik chuttiyon aur doosre aur chauthe Shanivar ko chhodkar) khule rehte hain.",
+        "gu-en": "CHARUSAT ni administrative office savare 09:00 thi sanje 4:30 sudhi, Somvar thi Shanivar chalu rahe che (jaher rajao ane beeja ane chotha Shanivar sivay)."
+      }
+    },
+    {
+      "intentName": "ask_contact_details",
+      "responseText": {
+        "en": "Address: Charotar University of Science and Technology, CHARUSAT Campus, Off Nadiad-Petlad Highway, Changa-388421. Phone: +91 2697 265011 / 21. Email: info@charusat.ac.in.",
+        "hi": "पता: चारotar यूनिवर्सिटी ऑफ साइंस एंड टेक्नोलॉजी, CHARUSAT कैंपस, ऑफ नाडियाड-पेटलाद हाईवे, चंगा-388421। फ़ोन: +91 2697 265011 / 21। ईमेल: info@charusat.ac.in।",
+        "gu": "સરનામું: ચરોતર યુનિવર્સિટી ઓફ સાયન્સ એન્ડ ટેકનોલોજી, CHARUSAT કેમ્પસ, ઓફ નડિયાદ-પેટલાદ હાઇવે, ચાંગਾ-388421. ફોન: +91 2697 265011 / 21. ઇમેઇલ: info@charusat.ac.in.",
+        "hi-en": "Pata: Charotar University of Science and Technology, CHARUSAT Campus, Off Nadiad-Petlad Highway, Changa-388421. Phone: +91 2697 265011 / 21. Email: info@charusat.ac.in.",
+        "gu-en": "Sarnamu: Charotar University of Science and Technology, CHARUSAT Campus, Off Nadiad-Petlad Highway, Changa-388421. Phone: +91 2697 265011 / 21. Email: info@charusat.ac.in."
+      }
+    },
+    {
+      "intentName": "find_academic_calendar",
+      "responseText": {
+        "en": "The academic calendar is available via the “Academic Calendar” link on the CHARUSAT website.",
+        "hi": "शैक्षणिक कैलेंडर CHARUSAT वेबसाइट पर 'अकादमिक कैलेंडर' लिंक के माध्यम से उपलब्ध है।",
+        "gu": "શૈક્ષણિક કેલેન્ડર CHARUSAT વેબસાઇટ પર 'એકેડેમિક કેલેન્ડર' લિંક દ્વારા ઉપલબ્ધ છે.",
+        "hi-en": "Shaikshanik calendar CHARUSAT website par 'Academic Calendar' link ke madhyam se uplabdh hai.",
+        "gu-en": "Shaikshanik calendar CHARUSAT website par 'Academic Calendar' link dwara uplabdh chhe."
+      }
+    },
+    {
+      "intentName": "find_holidays_notices",
+      "responseText": {
+        "en": "Public holidays, notices, and important circulars are posted under the “Public Holidays” and “Notifications / Downloads” sections on the website.",
+        "hi": "सार्वजनिक अवकाश, नोटिस और महत्वपूर्ण परिपत्र वेबसाइट पर 'सार्वजनिक अवकाश' और 'अधिसूचनाएं / डाउनलोड' अनुभागों के तहत पोस्ट किए जाते हैं।",
+        "gu": "જાહેર રજાઓ, સૂચનાઓ અને મહત્વપૂર્ણ પરિપત્રો વેબસાઇટ પર 'જાહેર રજાઓ' અને 'સૂચનાઓ / ડાઉનલોડ્સ' વિભાગ હેઠળ પોસ્ટ કરવામાં આવે છે.",
+        "hi-en": "Sarvajanik avkash, notice, aur mahatvapurna paripatra website par 'Public Holidays' aur 'Notifications / Downloads' anubhagon ke tahat post kiye jaate hain.",
+        "gu-en": "Jaher rajao, suchanao, ane mahatvapurna paripatro website par 'Public Holidays' ane 'Notifications / Downloads' vibhag hethal post karvaama aave chhe."
+      }
+    },
+    {
+      "intentName": "ask_available_programs",
+      "responseText": {
+        "en": "CHARUSAT offers a wide variety of programs including B.Tech, BCA, B.Sc (IT), B.Pharm, BBA, BPT, M.Tech, MCA, M.Sc (IT), M.Pharm, MBA, and Ph.D. Programmes.",
+        "hi": "CHARUSAT विभिन्न प्रकार के कार्यक्रम प्रदान करता है जिनमें बी.टेक, बीसीए, बी.एससी (आईटी), बी.फार्मा, बीबीए, बीपीटी, एम.टेक, एमसीए, एम.एससी (आईटी), एम.फार्मा, एमबीए और पीएचडी कार्यक्रम शामिल हैं।",
+        "gu": "CHARUSAT B.Tech, BCA, B.Sc (IT), B.Pharm, BBA, BPT, M.Tech, MCA, M.Sc (IT), M.Pharm, MBA, અને Ph.D. પ્રોગ્રામ્સ સહિત વિવિધ પ્રોગ્રામ્સ ઓફર કરે છે.",
+        "hi-en": "CHARUSAT vibhinn prakar ke karyakram pradan karta hai jinmen B.Tech, BCA, B.Sc (IT), B.Pharm, BBA, BPT, M.Tech, MCA, M.Sc (IT), M.Pharm, MBA, aur Ph.D. karyakram shamil hain.",
+        "gu-en": "CHARUSAT B.Tech, BCA, B.Sc (IT), B.Pharm, BBA, BPT, M.Tech, MCA, M.Sc (IT), M.Pharm, MBA, ane Ph.D. programs sahit vividh programs offer kare chhe."
+      }
+    },
+    {
+      "intentName": "find_fee_structure",
+      "responseText": {
+        "en": "The fee structure is linked under “Fees” on the CHARUSAT site. You can check or download the detailed fee schedule.",
+        "hi": "शुल्क संरचना CHARUSAT साइट पर 'शुल्क' के तहत जुड़ी हुई है। आप विस्तृत शुल्क अनुसूची देख या डाउनलोड कर सकते हैं।",
+        "gu": "ફીનું માળખું CHARUSAT સાઇટ પર 'ફી' હેઠળ લિંક થયેલ છે. તમે વિગતવાર ફી શેડ્યૂલ ચકાસી અથવા ડાઉનલોડ કરી શકો છો.",
+        "hi-en": "Shulk sanrachna CHARUSAT site par 'Fees' ke tahat judi hui hai. Aap vistrit shulk anusuchi dekh ya download kar sakte hain.",
+        "gu-en": "Fee nu madkhu CHARUSAT site par 'Fees' hethal link thayel chhe. Tame vigatvar fee schedule chakasi athva download kari shako chho."
+      }
+    },
+    {
+      "intentName": "ask_how_to_pay_fees",
+      "responseText": {
+        "en": "There is a “Pay Fees” link on the CHARUSAT site (support.charusat.ac.in) for online fee transactions.",
+        "hi": "ऑनलाइन शुल्क लेनदेन के लिए CHARUSAT साइट (support.charusat.ac.in) पर एक 'शुल्क भुगतान करें' लिंक है।",
+        "gu": "ઓનલાઈન ફી ટ્રાન્ઝેક્શન માટે CHARUSAT સાઇટ (support.charusat.ac.in) પર 'ફી ચૂકવો' લિંક છે.",
+        "hi-en": "Online shulk len-den ke liye CHARUSAT site (support.charusat.ac.in) par ek 'Pay Fees' link hai.",
+        "gu-en": "Online fee transaction mate CHARUSAT site (support.charusat.ac.in) par 'Pay Fees' link chhe."
+      }
+    },
+    {
+      "intentName": "ask_hostel_facility",
+      "responseText": {
+        "en": "Yes, CHARUSAT has hostel facilities, and information is available under the “Hostels” section on their website.",
+        "hi": "हाँ, CHARUSAT में छात्रावास की सुविधाएँ हैं, और जानकारी उनकी वेबसाइट पर 'छात्रावास' अनुभाग के तहत उपलब्ध है।",
+        "gu": "હા, CHARUSAT પાસે હોસ્ટેલની સુવિધાઓ છે, અને માહિતી તેમની વેબસાઇટ પર 'હોસ્ટેલ' વિભાગ હેઠળ ઉપલબ્ધ છે.",
+        "hi-en": "Haan, CHARUSAT mein chhatravas ki suvidhayein hain, aur jaankari unki website par 'Hostels' anubhag ke tahat uplabdh hai.",
+        "gu-en": "Ha, CHARUSAT pase hostel ni suvidhao chhe, ane mahiti temni website par 'Hostels' vibhag hethal uplabdh chhe."
+      }
+    },
+    {
+      "intentName": "ask_transport_facility",
+      "responseText": {
+        "en": "You can find transport information through the “Transportation” link on the website.",
+        "hi": "आप वेबसाइट पर 'परिवहन' लिंक के माध्यम से परिवहन जानकारी प्राप्त कर सकते हैं।",
+        "gu": "તમે વેબસાઇટ પર 'પરિવહન' લિંક દ્વારા પરિવહન માહિતી મેળવી શકો છો.",
+        "hi-en": "Aap website par 'Transportation' link ke madhyam se parivahan jaankari prapt kar sakte hain.",
+        "gu-en": "Tame website par 'Transportation' link dwara parivahan mahiti medvi shako chho."
+      }
+    },
+    {
+      "intentName": "find_policies_rules",
+      "responseText": {
+        "en": "The “Policies and Procedures – Support Facilities” section on the CHARUSAT website lists all institutional policies, procedures, code of conduct, etc.",
+        "hi": "CHARUSAT वेबसाइट पर 'नीतियां और प्रक्रियाएं - सहायता सुविधाएं' अनुभाग में सभी संस्थागत नीतियां, प्रक्रियाएं, आचार संहिता आदि सूचीबद्ध हैं।",
+        "gu": "CHARUSAT વેબસાઇટ પર 'નીતિઓ અને પ્રક્રિયાઓ - સહાયક સુવિધાઓ' વિભાગ તમામ સંસ્થાકીય નીતિઓ, પ્રક્રિયાઓ, આચારસંહિતા વગેરેની સૂચિ આપે છે.",
+        "hi-en": "CHARUSAT website par 'Policies and Procedures – Support Facilities' anubhag mein sabhi sansthagat neetiyan, prakriyayein, aachar sanhita aadi soochibaddh hain.",
+        "gu-en": "CHARUSAT website par 'Policies and Procedures – Support Facilities' vibhag tamam sansthagat neetiyo, prakriyao, aacharsanhita vagere ni soochi aape chhe."
+      }
+    },
+    {
+      "intentName": "find_grievance_cells",
+      "responseText": {
+        "en": "CHARUSAT has multiple cells like the Student Grievance Redressal Cell and Equal Opportunity Cell. Their details are listed under “Centers & Cells” on the site.",
+        "hi": "CHARUSAT में छात्र शिकायत निवारण प्रकोष्ठ और समान अवसर प्रकोष्ठ जैसी कई कोशिकाएँ हैं। उनका विवरण साइट पर 'केंद्र और प्रकोष्ठ' के तहत सूचीबद्ध है।",
+        "gu": "CHARUSAT પાસે વિદ્યાર્થી ફરિયાદ નિવારણ સેલ અને સમાન તક સેલ જેવા બહુવિધ સેલ છે. તેમની વિગતો સાઇટ પર 'કેન્દ્રો અને સેલ' હેઠળ સૂચિબદ્ધ છે.",
+        "hi-en": "CHARUSAT mein chhatra shikayat nivaran prakoshth aur saman avsar prakoshth jaisi kai koshikayein hain. Unka vivaran site par 'Centers & Cells' ke tahat soochibaddh hai.",
+        "gu-en": "CHARUSAT pase vidyarthi fariyad nivaran cell ane saman tak cell jeva bahuvidh cell chhe. Temni vigato site par 'Centers & Cells' hethal soochibaddh chhe."
+      }
+    },
+    {
+      "intentName": "ask_admission_process",
+      "responseText": {
+        "en": "The admission process is conducted online through the admission portal on the CHARUSAT website. You need to register, fill out the application form, and upload the required documents.",
+        "hi": "प्रवेश प्रक्रिया CHARUSAT वेबसाइट पर ऑनलाइन प्रवेश पोर्टल के माध्यम से की जाती है। आपको पंजीकरण करना होगा, आवेदन पत्र भरना होगा और आवश्यक दस्तावेज अपलोड करने होंगे।",
+        "gu": "પ્રવેશ પ્રક્રિયા CHARUSAT વેબસાઇટ પર ઓનલાઈન એડમિશન પોર્ટલ દ્વારા હાથ ધરવામાં આવે છે. તમારે નોંધણી કરાવવી પડશે, અરજીપત્રક ભરવું પડશે અને જરૂરી દસ્તાવેજો અપલોડ કરવા પડશે.",
+        "hi-en": "Pravesh prakriya CHARUSAT website par online pravesh portal ke madhyam se ki jaati hai. Aapko panjikaran karna hoga, aavedan patra bharna hoga aur aavashyak dastavej upload karne honge.",
+        "gu-en": "Pravesh prakriya CHARUSAT website par online admission portal dwara hath dharvama aave chhe. Tamare nondhni karavvi padshe, arjipatrak bharvu padshe ane jaruri dastavejo upload karva padshe."
+      }
+    },
+    {
+      "intentName": "ask_eligibility_criteria",
+      "responseText": {
+        "en": "Eligibility criteria vary for each program. Please visit the specific program's page under the 'Admissions' section of the website for detailed information.",
+        "hi": "प्रत्येक कार्यक्रम के लिए पात्रता मानदंड अलग-अलग हैं। विस्तृत जानकारी के लिए कृपया वेबसाइट के 'प्रवेश' अनुभाग के तहत विशिष्ट कार्यक्रम के पेज पर जाएं।",
+        "gu": "દરેક પ્રોગ્રામ માટે યોગ્યતાના માપદંડો અલગ-અલગ હોય છે. વિગતવાર માહિતી માટે કૃપા કરીને વેબસાઇટના 'એડમિશન' વિભાગ હેઠળના ચોક્કસ પ્રોગ્રામના પેજની મુલાકાત લો.",
+        "hi-en": "Pratyek karyakram ke liye patrata maandand alag-alag hain. Vistrit jaankari ke liye kripya website ke 'Admissions' anubhag ke tahat vishisht karyakram ke page par jaayein.",
+        "gu-en": "Darek program mate yogyatana mapdando alag-alag hoy chhe. Vigatvar mahiti mate krupya websitena 'Admissions' vibhag hethalna chokkas programna page ni mulakat lo."
+      }
+    },
+    {
+      "intentName": "ask_library_timings",
+      "responseText": {
+        "en": "The Central Library is open from 8:30 AM to 8:00 PM on weekdays and from 9:30 AM to 5:00 PM on weekends and holidays.",
+        "hi": "केंद्रीय पुस्तकालय सप्ताह के दिनों में सुबह 8:30 बजे से रात 8:00 बजे तक और सप्ताहांत और छुट्टियों में सुबह 9:30 बजे से शाम 5:00 बजे तक खुला रहता है।",
+        "gu": "સેન્ટ્રલ લાઇબ્રેરી અઠવાડિયાના દિવસોમાં સવારે 8:30 થી રાત્રે 8:00 વાગ્યા સુધી અને સપ્તાહના અંતે અને રજાઓમાં સવારે 9:30 થી સાંજે 5:00 વાગ્યા સુધી ખુલ્લી રહે છે.",
+        "hi-en": "Kendriya pustakalay saptah ke dinon mein subah 8:30 baje se raat 8:00 baje tak aur saptahant aur chuttiyon mein subah 9:30 baje se shaam 5:00 baje tak khula rehta hai.",
+        "gu-en": "Central Library athvadiyana divasoma savare 8:30 thi ratre 8:00 vagya sudhi ane saptahna ante ane rajaoma savare 9:30 thi sanje 5:00 vagya sudhi khulli rahe chhe."
+      }
+    },
+    {
+      "intentName": "ask_sports_facilities",
+      "responseText": {
+        "en": "CHARUSAT has extensive sports facilities, including grounds for cricket, football, volleyball, and courts for basketball and badminton, along with a gymnasium.",
+        "hi": "CHARUSAT में क्रिकेट, फुटबॉल, वॉलीबॉल के मैदान और बास्केटबॉल और बैडमिंटन के कोर्ट के साथ-साथ एक व्यायामशाला सहित व्यापक खेल सुविधाएं हैं।",
+        "gu": "CHARUSAT માં વ્યાપક રમતગમત સુવિધાઓ છે, જેમાં ક્રિકેટ, ફૂટબોલ, વોલીબોલ માટેના મેદાનો અને બાસ્કેટબોલ અને બેડમિન્ટન માટેના કોર્ટની સાથે એક વ્યાયામશાળાનો સમાવેશ થાય છે.",
+        "hi-en": "CHARUSAT mein cricket, football, volleyball ke maidan aur basketball aur badminton ke court ke saath-saath ek vyayamshala sahit vyapak khel suvidhayein hain.",
+        "gu-en": "CHARUSAT ma vyapak ramatgamat suvidhao chhe, jema cricket, football, volleyball mate na medano ane basketball ane badminton mate na court ni sathe ek vyayamshala no samavesh thay chhe."
+      }
+    },
+    {
+      "intentName": "ask_wifi_access",
+      "responseText": {
+        "en": "The entire CHARUSAT campus is Wi-Fi enabled. Students and staff can connect to the network using their official login credentials.",
+        "hi": "पूरा CHARUSAT परिसर वाई-फाई सक्षम है। छात्र और कर्मचारी अपने आधिकारिक लॉगिन क्रेडेंशियल्स का उपयोग करके नेटवर्क से जुड़ सकते हैं।",
+        "gu": "સમગ્ર CHARUSAT કેમ્પસ Wi-Fi સક્ષમ છે. વિદ્યાર્થીઓ અને સ્ટાફ તેમના સત્તાવાર લોગિન ઓળખપત્રોનો ઉપયોગ કરીને નેટવર્કથી કનેક્ટ થઈ શકે છે.",
+        "hi-en": "Poora CHARUSAT parisar Wi-Fi saksham hai. Chhatra aur karmachari apne aadhikarik login credentials ka upyog karke network se jud sakte hain.",
+        "gu-en": "Samagra CHARUSAT campus Wi-Fi saksham chhe. Vidyarthio ane staff temna sattavar login olakhpatrono upyog karine network thi connect thai shake chhe."
+      }
+    },
+    {
+      "intentName": "find_exam_timetable",
+      "responseText": {
+        "en": "The exam timetable is published on the official CHARUSAT website under the 'Examination Section'. Please check there for the most up-to-date schedule for your program.",
+        "hi": "परीक्षा समय सारणी CHARUSAT की आधिकारिक वेबसाइट पर 'परीक्षा अनुभाग' के तहत प्रकाशित की जाती है। कृपया अपने कार्यक्रम के लिए नवीनतम अनुसूची के लिए वहां जांचें।",
+        "gu": "પરીક્ષાનું સમયપત્રક CHARUSAT ની સત્તાવાર વેબસાઇટ પર 'પરીક્ષા વિભાગ' હેઠળ પ્રકાશિત કરવામાં આવે છે. કૃપા કરીને તમારા પ્રોગ્રામ માટે સૌથી અદ્યતન શેડ્યૂલ માટે ત્યાં તપાસ કરો.",
+        "hi-en": "Pariksha samay sarni CHARUSAT ki aadhikarik website par 'Examination Section' ke tahat prakashit ki jaati hai. Kripya apne karyakram ke liye naveentam anusuchi ke liye wahan jaanchein.",
+        "gu-en": "Parikshanu samaypatrak CHARUSAT ni sattavar website par 'Examination Section' hethal prakashit karvama aave chhe. Krupya tamara program mate sauthi adyatan schedule mate tya tapas karo."
+      }
+    },
+    {
+      "intentName": "ask_about_scholarships",
+      "responseText": {
+        "en": "CHARUSAT offers various scholarships and financial aid. You can find detailed information, eligibility criteria, and application forms on the 'Scholarships' page of the university website.",
+        "hi": "CHARUSAT विभिन्न छात्रवृत्तियाँ और वित्तीय सहायता प्रदान करता है। आप विश्वविद्यालय की वेबसाइट के 'छात्रवृत्ति' पृष्ठ पर विस्तृत जानकारी, पात्रता मानदंड और आवेदन पत्र पा सकते हैं।",
+        "gu": "CHARUSAT વિવિધ શિષ્યવૃત્તિઓ અને નાણાકીય સહાય પૂરી પાડે છે. તમે યુનિવર્સિટીની વેબસાઇટના 'શિષ્યવૃત્તિ' પૃષ્ઠ પર વિગતવાર માહિતી, યોગ્યતાના માપદંડો અને અરજીપત્રો શોધી શકો છો.",
+        "hi-en": "CHARUSAT vibhinn chhatravrittiyan aur vittiya sahayata pradan karta hai. Aap vishwavidyalaya ki website ke 'Scholarships' prishth par vistrit jaankari, patrata maandand aur aavedan patra pa sakte hain.",
+        "gu-en": "CHARUSAT vividh shishyavrittio ane nanakiya sahay puri pade chhe. Tame university ni website na 'Scholarships' prushth par vigatvar mahiti, yogyatana mapdando ane arjipatro shodhi shako chho."
+      }
+    },
+    {
+      "intentName": "ask_how_to_get_library_card",
+      "responseText": {
+        "en": "To get a library card, you need to visit the Central Library with your student ID card. The library staff will guide you through the registration process.",
+        "hi": "पुस्तकालय कार्ड प्राप्त करने के लिए, आपको अपने छात्र पहचान पत्र के साथ केंद्रीय पुस्तकालय जाना होगा। पुस्तकालय कर्मचारी आपको पंजीकरण प्रक्रिया में मार्गदर्शन करेंगे।",
+        "gu": "લાઇબ્રેરી કાર્ડ મેળવવા માટે, તમારે તમારા વિદ્યાર્થી ઓળખપત્ર સાથે સેન્ટ્રલ લાઇબ્રેરીની મુલાકાત લેવાની જરૂર છે. લાઇબ્રેરીનો સ્ટાફ તમને નોંધણી પ્રક્રિયામાં માર્ગદર્શન આપશે.",
+        "hi-en": "Pustakalay card prapt karne ke liye, aapko apne chhatra pehchan patra ke saath kendriya pustakalay jaana hoga. Pustakalay karmachari aapko panjikaran prakriya mein margdarshan karenge.",
+        "gu-en": "Library card medavva mate, tamare tamara vidyarthi olakhpatra sathe Central Library ni mulakat levani jarur chhe. Library no staff tamne nondhni prakriya ma margdarshan aapshe."
+      }
+    },
+    {
+      "intentName": "ask_fee_deadline",
+      "responseText": {
+        "en": "The fee payment deadline is announced at the beginning of each semester and is listed in the academic calendar on the CHARUSAT website.",
+        "hi": "शुल्क भुगतान की अंतिम तिथि प्रत्येक सेमेस्टर की शुरुआत में घोषित की जाती है और CHARUSAT वेबसाइट पर शैक्षणिक कैलेंडर में सूचीबद्ध होती है।",
+        "gu": "ફી ચુકવણીની અંતિમ તારીખ દરેક સેમેસ્ટરની શરૂઆતમાં જાહેર કરવામાં આવે છે અને CHARUSAT વેબસાઇટ પર શૈક્ષણિક કેલેન્ડરમાં સૂચિબદ્ધ હોય છે.",
+        "hi-en": "Shulk bhugtan ki antim tithi pratyek semester ki shuruat mein ghoshit ki jaati hai aur CHARUSAT website par shaikshanik calendar mein soochibaddh hoti hai.",
+        "gu-en": "Fee chukavni ni antim tarikh darek semester ni sharuaat ma jaher karvama aave chhe ane CHARUSAT website par shaikshanik calendar ma soochibaddh hoy chhe."
+      }
+    },
+    {
+      "intentName": "ask_cspit_principal_email",
+      "responseText": {
+        "en": "The principal of CSPIT can be contacted at principal.cspit@charusat.ac.in.",
+        "hi": "CSPIT के प्राचार्य से principal.cspit@charusat.ac.in पर संपर्क किया जा सकता है।",
+        "gu": "CSPIT ના પ્રિન્સિપાલનો સંપર્ક principal.cspit@charusat.ac.in પર કરી શકાય છે.",
+        "hi-en": "CSPIT ke pracharya se principal.cspit@charusat.ac.in par sampark kiya ja sakta hai.",
+        "gu-en": "CSPIT na principal no sampark principal.cspit@charusat.ac.in par kari shakay chhe."
+      }
+    },
+    {
+      "intentName": "ask_cspit_phone",
+      "responseText": {
+        "en": "The CSPIT contact number is +91-2697-265112.",
+        "hi": "CSPIT संपर्क नंबर +91-2697-265112 है।",
+        "gu": "CSPIT સંપર્ક નંબર +91-2697-265112 છે.",
+        "hi-en": "CSPIT sampark number +91-2697-265112 hai.",
+        "gu-en": "CSPIT sampark number +91-2697-265112 chhe."
+      }
+    },
+    {
+      "intentName": "ask_student_support_committees",
+      "responseText": {
+        "en": "CSPIT and CHARUSAT have various committees for student support, including the Grievance Redressal Cell, Anti-Ragging Squad, and Women Development Cell.",
+        "hi": "CSPIT और CHARUSAT में छात्र सहायता के लिए विभिन्न समितियाँ हैं, जिनमें शिकायत निवारण प्रकोष्ठ, एंटी-रैगिंग स्क्वाड और महिला विकास प्रकोष्ठ शामिल हैं।",
+        "gu": "CSPIT અને CHARUSAT પાસે વિદ્યાર્થીઓના સમર્થન માટે વિવિધ સમિતિઓ છે, જેમાં ફરિયાદ નિવારણ સેલ, એન્ટી-રેગિંગ સ્ક્વોડ અને મહિલા વિકાસ સેલનો સમાવેશ થાય છે.",
+        "hi-en": "CSPIT aur CHARUSAT mein chhatra sahayata ke liye vibhinn samitiyan hain, jinmen shikayat nivaran prakoshth, anti-ragging squad, aur mahila vikas prakoshth shamil hain.",
+        "gu-en": "CSPIT ane CHARUSAT pase vidyarthiઓના samarthan mate vividh samitio chhe, jema fariyad nivaran cell, anti-ragging squad ane mahila vikas cell no samavesh thay chhe."
+      }
+    },
+    {
+      "intentName": "ask_how_to_file_grievance",
+      "responseText": {
+        "en": "Students can submit complaints via the Student Grievance Redressal Cell (SGRC) mechanism. Contact the Nodal officer at nodalofficergrc@charusat.ac.in.",
+        "hi": "छात्र अपनी शिकायतें छात्र शिकायत निवारण प्रकोष्ठ (SGRC) तंत्र के माध्यम से दर्ज करा सकते हैं। नोडल अधिकारी से nodalofficergrc@charusat.ac.in पर संपर्क करें।",
+        "gu": "વિદ્યાર્થીઓ સ્ટુડન્ટ ગ્રિવન્સ રિડ્રેસલ સેલ (SGRC) મિકેનિઝમ દ્વારા ફરિયાદો સબમિટ કરી શકે છે. નોડલ ઓફિસરનો સંપર્ક nodalofficergrc@charusat.ac.in પર કરો.",
+        "hi-en": "Chhatra apni shikayatein chhatra shikayat nivaran prakoshth (SGRC) tantra ke madhyam se darj kara sakte hain. Nodal adhikari se nodalofficergrc@charusat.ac.in par sampark karein.",
+        "gu-en": "Vidyarthio Student Grievance Redressal Cell (SGRC) mechanism dwara fariyado submit kari shake chhe. Nodal officer no sampark nodalofficergrc@charusat.ac.in par karo."
+      }
+    },
+    {
+      "intentName": "ask_academic_council_role",
+      "responseText": {
+        "en": "The Academic Council controls and regulates academic policies, approves new programmes, and maintains standards of instruction and evaluation.",
+        "hi": "अकादमिक परिषद अकादमिक नीतियों और अध्यादेशों को नियंत्रित और régulate करती है, नए कार्यक्रमों को मंजूरी देती है, और शिक्षण और मूल्यांकन के मानकों को बनाए रखती है।",
+        "gu": "એકેડેમિક કાઉન્સિલ શૈક્ષણિક નીતિઓ અને વટહુકમોને નિયંત્રિત અને નિયમન કરે છે, નવા કાર્યક્રમોને મંજૂરી આપે છે, અને સૂચના અને મૂલ્યાંકનના ધોરણો જાળવી રાખે છે.",
+        "hi-en": "Academic Council academic neetiyon aur adhyadeshon ko niyantrit aur regulate karti hai, naye karyakramon ko manzoori deti hai, aur shikshan aur mulyankan ke manakon ko banaye rakhti hai.",
+        "gu-en": "Academic Council shaikshanik neetiyo ane vathukmone niyantrit ane niyaman kare chhe, nava karyakramone manjoori aape chhe, ane suchana ane mulyankan na dhorano jalvi rakhe chhe."
+      }
+    },
+    {
+      "intentName": "ask_financial_aid_for_conferences",
+      "responseText": {
+        "en": "Yes, there is a policy for supporting undergraduate and postgraduate students to present papers at national and international conferences.",
+        "hi": "हाँ, राष्ट्रीय और अंतर्राष्ट्रीय सम्मेलनों में पेपर प्रस्तुत करने के लिए स्नातक और स्नातकोत्तर छात्रों का समर्थन करने की एक नीति है।",
+        "gu": "હા, રાષ્ટ્રીય અને આંતરરાષ્ટ્રીય પરિષદોમાં પેપર રજૂ કરવા માટે અંડરગ્રેજ્યુએટ અને પોસ્ટગ્રેજ્યુએટ વિદ્યાર્થીઓને ટેકો આપવા માટેની નીતિ છે.",
+        "hi-en": "Haan, rashtriya aur antarrashtriya sammelanon mein paper prastut karne ke liye snatak aur snatkottar chhatron ka samarthan karne ki ek neeti hai.",
+        "gu-en": "Ha, rashtriya ane antarrashtriya parishadoma paper raju karva mate undergraduate ane postgraduate vidyarthiઓને teko aapva mate ni neeti chhe."
+      }
+    },
+    {
+      "intentName": "ask_admission_refund_policy",
+      "responseText": {
+        "en": "Yes, CHARUSAT has a fees refund policy, which can be found in the mandatory disclosures or on admission cancellation forms.",
+        "hi": "हाँ, CHARUSAT की एक शुल्क वापसी नीति है, जो अनिवार्य खुलासे या प्रवेश रद्द करने के फॉर्म में पाई जा सकती है।",
+        "gu": "હા, CHARUSAT પાસે ફી રિફંડ નીતિ છે, જે ફરજિયાત જાહેરાતોમાં અથવા પ્રવેશ રદ કરવાના ફોર્મ પર મળી શકે છે.",
+        "hi-en": "Haan, CHARUSAT ki ek shulk wapsi neeti hai, jo anivarya khulase ya pravesh radd karne ke form mein paai ja sakti hai.",
+        "gu-en": "Ha, CHARUSAT pase fee refund neeti chhe, je farajiyat jaheratoma athva pravesh radd karvana form par mali shake chhe."
+      }
+    },
+    {
+      "intentName": "ask_education_system",
+      "responseText": {
+        "en": "B.Tech at CHARUSAT follows the Choice Based Credit System (CBCS) with a semester pattern.",
+        "hi": "CHARUSAT में बी.टेक चॉइस बेस्ड क्रेडिट सिस्टम (CBCS) और सेमेस्टर पैटर्न का पालन करता है।",
+        "gu": "CHARUSAT માં B.Tech ચોઇસ બેઝ્ડ ક્રેડિટ સિસ્ટમ (CBCS) અને સેમેસ્ટર પેટર્નને અનુસરે છે.",
+        "hi-en": "CHARUSAT mein B.Tech Choice Based Credit System (CBCS) aur semester pattern ka palan karta hai.",
+        "gu-en": "CHARUSAT ma B.Tech Choice Based Credit System (CBCS) ane semester pattern ne anusare chhe."
+      }
+    },
+    {
+      "intentName": "ask_minimum_attendance",
+      "responseText": {
+        "en": "Students must maintain 80% attendance in each course. Condoning may be applied for in exceptional cases.",
+        "hi": "छात्रों को प्रत्येक पाठ्यक्रम में 80% उपस्थिति बनाए रखनी होगी। असाधारण मामलों में माफी के लिए आवेदन किया जा सकता है।",
+        "gu": "વિદ્યાર્થીઓએ દરેક કોર્સમાં 80% હાજરી જાળવી રાખવી આવશ્યક છે. અપવાદરૂપ કિસ્સાઓમાં માફી માટે અરજી કરી શકાય છે.",
+        "hi-en": "Chhatron ko pratyek pathyakram mein 80% upasthiti banaye rakhni hogi. Asadharan mamlon mein maafi ke liye aavedan kiya ja sakta hai.",
+        "gu-en": "Vidyarthiઓએ darek course ma 80% hajri jalvi rakhvi aavashyak chhe. Apvadrup kissoma mafi mate arji kari shakay chhe."
+      }
+    },
+    {
+      "intentName": "ask_btech_max_completion_time",
+      "responseText": {
+        "en": "The B.Tech programme has a minimum duration of 8 semesters (4 years) and a maximum allowed duration of 16 semesters (8 years).",
+        "hi": "बी.टेक कार्यक्रम की न्यूनतम अवधि 8 सेमेस्टर (4 वर्ष) और अधिकतम अनुमत अवधि 16 सेमेस्टर (8 वर्ष) है।",
+        "gu": "B.Tech પ્રોગ્રામની લઘુત્તમ અવધિ 8 સેમેસ્ટર (4 વર્ષ) અને મહત્તમ મંજૂર અવધિ 16 સેમેસ્ટર (8 વર્ષ) છે.",
+        "hi-en": "B.Tech karyakram ki nyunatam avadhi 8 semester (4 varsh) aur adhiktam anumat avadhi 16 semester (8 varsh) hai.",
+        "gu-en": "B.Tech program ni laghutam avadhi 8 semester (4 varsh) ane mahattam manjur avadhi 16 semester (8 varsh) chhe."
+      }
+    },
+    {
+      "intentName": "ask_passing_criteria",
+      "responseText": {
+        "en": "To pass a course, students typically need to score a minimum of 40% in the end-semester exam and 45% overall in the course.",
+        "hi": "एक कोर्स पास करने के लिए, छात्रों को आमतौर पर सेमेस्टर के अंत की परीक्षा में न्यूनतम 40% और कोर्स में कुल मिलाकर 45% अंक प्राप्त करने की आवश्यकता होती है।",
+        "gu": "કોર્સ પાસ કરવા માટે, વિદ્યાર્થીઓએ સામાન્ય રીતે સેમેસ્ટર-એન્ડ પરીક્ષામાં ઓછામાં ઓછા 40% અને કોર્સમાં એકંદરે 45% ગુણ મેળવવાની જરૂર હોય છે.",
+        "hi-en": "Ek course pass karne ke liye, chhatron ko aamtaur par semester ke ant ki pariksha mein nyunatam 40% aur course mein kul milakar 45% ank prapt karne ki avashyakta hoti hai.",
+        "gu-en": "Course pass karva mate, vidyarthiઓએ samany rite semester-end parikshama ochama ochha 40% ane course ma ekandare 45% gun medavvani jarur hoy chhe."
+      }
+    },
+    {
+      "intentName": "ask_what_if_fail",
+      "responseText": {
+        "en": "If a student fails a course, they need to retake the exam or repeat the course until they achieve the minimum passing grade.",
+        "hi": "यदि कोई छात्र किसी कोर्स में फेल हो जाता है, तो उसे परीक्षा दोबारा देनी होगी या न्यूनतम पासिंग ग्रेड प्राप्त होने तक कोर्स को दोहराना होगा।",
+        "gu": "જો કોઈ વિદ્યાર્થી કોઈ કોર્સમાં નાપાસ થાય, તો તેણે પરીક્ષા ફરીથી આપવી પડશે અથવા લઘુત્તમ પાસિંગ ગ્રેડ પ્રાપ્ત ન થાય ત્યાં સુધી કોર્સનું પુનરાવર્તન કરવું પડશે.",
+        "hi-en": "Yadi koi chhatra kisi course mein fail ho jaata hai, to use pariksha dobara deni hogi ya nyunatam passing grade prapt hone tak course ko dohrana hoga.",
+        "gu-en": "Jo koi vidyarthi koi course ma napas thay, to tene pariksha farithi aapvi padshe athva laghutam passing grade prapt na thay tya sudhi course nu punravartan karvu padshe."
+      }
+    },
+    {
+      "intentName": "find_syllabus",
+      "responseText": {
+        "en": "Branch-wise syllabus and regulations are published as PDFs in the “Academic Regulations & Syllabus” section on the website.",
+        "hi": "शाखा-वार पाठ्यक्रम और नियम वेबसाइट पर 'अकादमिक विनियम और पाठ्यक्रम' अनुभाग में पीडीएफ के रूप में प्रकाशित किए जाते हैं।",
+        "gu": "શાખાવાર અભ્યાસક્રમ અને નિયમો વેબસાઇટ પર 'શૈક્ષણિક નિયમો અને અભ્યાસક્રમ' વિભાગમાં પીડીએફ તરીકે પ્રકાશિત થાય છે.",
+        "hi-en": "Shakha-var pathyakram aur niyam website par 'Academic Regulations & Syllabus' anubhag mein PDF ke roop mein prakashit kiye jaate hain.",
+        "gu-en": "Shakhavar abhyaskram ane niyamo website par 'Academic Regulations & Syllabus' vibhag ma PDF tarike prakashit thay chhe."
+      }
+    },
+    {
+      "intentName": "ask_academic_misconduct_policy",
+      "responseText": {
+        "en": "The Student Information Booklet contains all conduct rules and penalties for academic misconduct like cheating or plagiarism.",
+        "hi": "छात्र सूचना पुस्तिका में आचरण के सभी नियम और धोखाधड़ी या साहित्यिक चोरी जैसे शैक्षणिक कदाचार के लिए दंड शामिल हैं।",
+        "gu": "વિદ્યાર્થી માહિતી પુસ્તિકામાં છેતરપિંડી અથવા સાહિત્યચોરી જેવા શૈક્ષણિક ગેરવર્તણૂક માટેના તમામ આચાર નિયમો અને દંડનો સમાવેશ થાય છે.",
+        "hi-en": "Chhatra soochana pustika mein aacharan ke sabhi niyam aur dhokhadhadi ya sahityik chori jaise shaikshanik kadachar ke liye dand shamil hain.",
+        "gu-en": "Vidyarthi mahiti pustika ma chhetrapindi athva sahityachori jeva shaikshanik gairvartanuk mate na tamam aachar niyamo ane dand no samavesh thay chhe."
+      }
+    },
+    {
+      "intentName": "find_previous_question_papers",
+      "responseText": {
+        "en": "You can access previous year question papers and exam results in the “Student Corner / Downloads / Question Papers / View Result” section on the department or institute website.",
+        "hi": "आप पिछले वर्ष के प्रश्न पत्र और परीक्षा परिणाम विभाग या संस्थान की वेबसाइट पर 'छात्र कॉर्नर / डाउनलोड / प्रश्न पत्र / परिणाम देखें' अनुभाग में देख सकते हैं।",
+        "gu": "તમે વિભાગ અથવા સંસ્થાની વેબસાઇટ પર 'સ્ટુડન્ટ કોર્નર / ડાઉનલોડ્સ / પ્રશ્નપત્રો / પરિણામ જુઓ' વિભાગમાં પાછલા વર્ષના પ્રશ્નપત્રો અને પરીક્ષાના પરિણામો જોઈ શકો છો.",
+        "hi-en": "Aap pichhle varsh ke prashna patra aur pariksha parinam vibhag ya sansthan ki website par 'Student Corner / Downloads / Question Papers / View Result' anubhag mein dekh sakte hain.",
+        "gu-en": "Tame vibhag athva sansthan ni website par 'Student Corner / Downloads / Question Papers / View Result' vibhag ma pachhla varsh na prashnapatro ane pariksha na parinamo joi shako chho."
+      }
+    },
+    {
+      "intentName": "ask_fee_deadline",
+      "responseText": {
+        "en": "The fee payment deadline is announced at the beginning of each semester and is listed in the academic calendar on the CHARUSAT website.",
+        "hi": "शुल्क भुगतान की अंतिम तिथि प्रत्येक सेमेस्टर की शुरुआत में घोषित की जाती है और CHARUSAT वेबसाइट पर शैक्षणिक कैलेंडर में सूचीबद्ध होती है।",
+        "gu": "ફી ચુકવણીની અંતિમ તારીખ દરેક સેમેસ્ટરની શરૂઆતમાં જાહેર કરવામાં આવે છે અને CHARUSAT વેબસાઇટ પર શૈક્ષણિક કેલેન્ડરમાં સૂચિબદ્ધ હોય છે.",
+        "hi-en": "Shulk bhugtan ki antim tithi pratyek semester ki shuruat mein ghoshit ki jaati hai aur CHARUSAT website par shaikshanik calendar mein soochibaddh hoti hai.",
+        "gu-en": "Fee chukavni ni antim tarikh darek semester ni sharuaat ma jaher karvama aave chhe ane CHARUSAT website par shaikshanik calendar ma soochibaddh hoy chhe."
+      }
+    }
+  ]
+}

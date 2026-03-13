@@ -1,0 +1,28 @@
+[
+    {
+        "id": "d1587bcc-0c60-44b6-a4a6-d9fcacf38a01",
+        "data": [
+            {
+                "text": "क्या बस सेवा है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "8a3f84cc-930b-4f09-91ad-37b8c0488c87",
+        "data": [
+            {
+                "text": "कॉलेज परिवहन सुविधा के बारे में बताएं।",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    }
+]

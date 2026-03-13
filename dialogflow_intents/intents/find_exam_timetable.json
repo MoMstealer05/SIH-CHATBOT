@@ -1,0 +1,25 @@
+{
+    "id": "c335194a-7815-4412-ae55-c7aec5bbbd5c",
+    "name": "find_exam_timetable",
+    "auto": true,
+    "contexts": [],
+    "responses": [
+        {
+            "resetContexts": false,
+            "affectedContexts": [],
+            "parameters": [],
+            "messages": [
+                {
+                    "type": "message",
+                    "lang": "en",
+                    "speech": "Webhook response for find_exam_timetable."
+                }
+            ],
+            "defaultResponsePlatforms": {}
+        }
+    ],
+    "priority": 500000,
+    "webhookUsed": true,
+    "fallbackIntent": false,
+    "events": []
+}

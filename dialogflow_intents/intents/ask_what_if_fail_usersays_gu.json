@@ -1,0 +1,41 @@
+[
+    {
+        "id": "6a946ee4-0d5f-4dae-a747-d7dae2d8ca5b",
+        "data": [
+            {
+                "text": "જો હું કોઈ વિષયમાં નાપાસ થાઉં તો શું?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "70bb976d-8460-493a-bff1-0974aa3297f2",
+        "data": [
+            {
+                "text": "જો મને બેકલોગ આવે તો શું થાય?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "abfbe08e-9f92-4e04-a329-497feceff0f4",
+        "data": [
+            {
+                "text": "જો હું નાપાસ થાઉં તો ફરી પરીક્ષા લેવાય છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    }
+]

@@ -1,0 +1,25 @@
+{
+    "id": "076a4b10-6c41-47e1-b0a7-3dd71e4d8c79",
+    "name": "ask_how_to_file_grievance",
+    "auto": true,
+    "contexts": [],
+    "responses": [
+        {
+            "resetContexts": false,
+            "affectedContexts": [],
+            "parameters": [],
+            "messages": [
+                {
+                    "type": "message",
+                    "lang": "en",
+                    "speech": "Webhook response for ask_how_to_file_grievance."
+                }
+            ],
+            "defaultResponsePlatforms": {}
+        }
+    ],
+    "priority": 500000,
+    "webhookUsed": true,
+    "fallbackIntent": false,
+    "events": []
+}

@@ -1,0 +1,28 @@
+[
+    {
+        "id": "e345a5e9-85f8-47b2-8b80-da95db2fb3cf",
+        "data": [
+            {
+                "text": "બી.ટેક. કોર્સ પૂરો કરવામાં કેટલો સમય લાગે છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "a5f8c40d-6ac5-4071-bad3-030fae91fd4d",
+        "data": [
+            {
+                "text": "મારી બી.ટેક. ડિગ્રી પૂરી કરવા માટે મહત્તમ કેટલો સમય આપવામાં આવે છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    }
+]

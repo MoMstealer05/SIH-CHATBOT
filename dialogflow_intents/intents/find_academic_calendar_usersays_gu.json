@@ -1,0 +1,28 @@
+[
+    {
+        "id": "7af27802-da89-41f6-9b5d-da824083be44",
+        "data": [
+            {
+                "text": "મને શૈક્ષણિક કેલેન્ડર ક્યાંથી મળશે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "98f4095e-311d-4d88-b3ac-a3919f756487",
+        "data": [
+            {
+                "text": "મને આ વર્ષનું શૈક્ષણિક કેલેન્ડર બતાવો.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    }
+]

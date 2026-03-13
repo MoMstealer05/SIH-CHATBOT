@@ -1,0 +1,119 @@
+[
+    {
+        "id": "cc8c7368-efbe-4bfe-bebd-a5cb7e85d7eb",
+        "data": [
+            {
+                "text": "Where can I find the exam timetable?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "5c2fe3a4-0176-4e12-916c-0e38508011a3",
+        "data": [
+            {
+                "text": "Show me the exam schedule.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "b988cf1a-2829-422d-ac69-83079b359dee",
+        "data": [
+            {
+                "text": "When are the final exams?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "eaa5319c-8162-4827-9a0d-80776a269c47",
+        "data": [
+            {
+                "text": "I need the timetable for mid-semester exams.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "3addcf86-cfa9-47da-8571-b83d7bf0d8cf",
+        "data": [
+            {
+                "text": "Exam dates.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "b370bde6-3390-4c00-a8c8-5b62173f97b3",
+        "data": [
+            {
+                "text": "exam timetable kahan milega?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "bb88c50c-f45a-4621-8a8a-7b317b3f5568",
+        "data": [
+            {
+                "text": "exam schedule dikhao.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "fc972759-222a-4b47-b22c-5ac139e9785f",
+        "data": [
+            {
+                "text": "exam timetable kyathi malshe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "d60e70b1-479e-4340-aa09-809f816a1c79",
+        "data": [
+            {
+                "text": "pariksha nu samaypatrak batavo.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    }
+]

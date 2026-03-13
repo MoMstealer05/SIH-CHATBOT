@@ -1,0 +1,32 @@
+[
+  {
+    "data": [
+      {
+        "text": "मुझे सिलेबस कहाँ मिल सकता है?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "क्या आप मुझे कंप्यूटर इंजीनियरिंग का सिलेबस दे सकते हैं?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "मुझे पहले वर्ष का सिलेबस चाहिए।",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

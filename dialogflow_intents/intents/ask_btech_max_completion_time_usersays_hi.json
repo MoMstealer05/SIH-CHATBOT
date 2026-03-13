@@ -1,0 +1,28 @@
+[
+    {
+        "id": "39a380c1-bbed-4c61-8cfa-6a78a192da51",
+        "data": [
+            {
+                "text": "बी.टेक कोर्स पूरा करने में कितना समय लगता है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "06f9c1f6-10e3-419c-8ece-d5be9a378ee1",
+        "data": [
+            {
+                "text": "मेरी बी.टेक डिग्री पूरी करने के लिए अधिकतम कितना समय दिया गया है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    }
+]

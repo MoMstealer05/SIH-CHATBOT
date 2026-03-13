@@ -1,0 +1,41 @@
+[
+    {
+        "id": "2ca04503-c4c6-4fc2-8bb6-07201b4f57e8",
+        "data": [
+            {
+                "text": "પ્રવેશ માટે પાત્રતા માપદંડ શું છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "cdc649ab-e2e6-4cd8-8dec-6c5e63783059",
+        "data": [
+            {
+                "text": "બી.ઈ. પ્રોગ્રામ માટે કોણ પાત્ર છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "b1ac925d-7277-4069-b61f-401c4f5c8177",
+        "data": [
+            {
+                "text": "કમ્પ્યુટર એન્જિનિયરિંગ માટે કેટલા ટકા જરૂરી છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    }
+]

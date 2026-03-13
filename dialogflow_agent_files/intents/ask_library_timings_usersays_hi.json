@@ -1,0 +1,32 @@
+[
+  {
+    "data": [
+      {
+        "text": "पुस्तकालय का समय क्या है?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "पुस्तकालय कब खुलता है?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "क्या पुस्तकालय सप्ताहांत पर खुला रहता है?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

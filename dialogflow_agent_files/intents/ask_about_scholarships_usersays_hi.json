@@ -1,0 +1,42 @@
+[
+  {
+    "data": [
+      {
+        "text": "कोई छात्रवृत्ति उपलब्ध है?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "मैं छात्रवृत्ति के लिए आवेदन कैसे कर सकता हूं?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "छात्रवृत्ति के लिए पात्रता मानदंड क्या हैं?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "वित्तीय सहायता विकल्पों के बारे में बताएं।",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

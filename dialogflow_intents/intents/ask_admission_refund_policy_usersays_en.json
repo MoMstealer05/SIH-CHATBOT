@@ -1,0 +1,145 @@
+[
+    {
+        "id": "70d1f473-37be-4bb5-959a-366bd810b8dd",
+        "data": [
+            {
+                "text": "What is the admission fee refund policy?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "c1cf9b51-b7cb-4972-8ee8-89886afa1657",
+        "data": [
+            {
+                "text": "If I cancel my admission, will I get a refund?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "665cf56b-ff30-4fed-94eb-66ec87a0f910",
+        "data": [
+            {
+                "text": "Tell me about the refund rules for admission fees.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "97c0acc1-a8df-45b5-ada9-4af1ea8cac59",
+        "data": [
+            {
+                "text": "How much money will be refunded if I withdraw my application?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "10599e9d-356b-4069-92b5-ccc36d8942e1",
+        "data": [
+            {
+                "text": "Can I get a full refund of my admission fee?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "e5296e86-d278-4843-b167-231552b5dadf",
+        "data": [
+            {
+                "text": "admission fee refund policy kya hai?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "9b07be3d-8843-449f-ad6f-1a26563998e6",
+        "data": [
+            {
+                "text": "agar admission cancel karu to refund milega?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "7b2f07d2-3487-4e98-a743-bc23049f03ae",
+        "data": [
+            {
+                "text": "full admission fee refund mil sakti hai?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "3401896d-22e9-4eb1-b97c-d8fb72f4c9d9",
+        "data": [
+            {
+                "text": "admission fee refund policy shu chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "19095e8d-8494-4129-b082-3c9becf93dce",
+        "data": [
+            {
+                "text": "jo admission cancel karavu to refund malishe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "2bd59408-7cf8-4860-b89b-ef78d2069551",
+        "data": [
+            {
+                "text": "mane full admission fee refund mali shake?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    }
+]

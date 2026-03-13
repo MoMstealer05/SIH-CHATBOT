@@ -1,0 +1,119 @@
+[
+    {
+        "id": "802fd143-c0cb-4934-b986-bbc9414fcbba",
+        "data": [
+            {
+                "text": "What is the fee structure?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "c8b36c6a-1fce-411f-83af-8537483b092e",
+        "data": [
+            {
+                "text": "Show me the fee details for B.Tech.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "b5bdbbf6-79a7-4324-8d76-e8455d320382",
+        "data": [
+            {
+                "text": "How much are the tuition fees?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "936a32e3-138e-4391-ac42-c1f095975200",
+        "data": [
+            {
+                "text": "I need the fee structure for the first year.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "a2336d3c-02b1-4342-9132-b29835eb45fa",
+        "data": [
+            {
+                "text": "Fee details.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "29a7c502-4662-47b5-9d58-c2eed82bc4f4",
+        "data": [
+            {
+                "text": "fee structure kya hai?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "bb5dff50-9144-4307-a0fe-9b28d3491f1c",
+        "data": [
+            {
+                "text": "B.Tech ke liye fee details dikhao.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "dee7271e-0b79-4de4-a595-e20e6fdee2d0",
+        "data": [
+            {
+                "text": "fee nu madkhu shu chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "fa9abdf6-662f-424a-a7eb-bde3bfc20c1a",
+        "data": [
+            {
+                "text": "B.Tech mate fee ni vigato batavo.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "id": "24f224e9-30d6-4d26-ad76-f1976905f3f1",
+        "data": [
+            {
+                "text": "नकल करने पर क्या नीति है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "72408782-fbd0-4a99-8408-d3a6eb2ee2e1",
+        "data": [
+            {
+                "text": "यदि कोई छात्र साहित्यिक चोरी करते हुए पकड़ा जाता है तो क्या होता है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "136729c5-ef3e-426a-8969-19f16d4b6922",
+        "data": [
+            {
+                "text": "शैक्षणिक कदाचार नीति के बारे में बताएं।",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    }
+]

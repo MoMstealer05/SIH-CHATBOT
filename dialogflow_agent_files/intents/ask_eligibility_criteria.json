@@ -1,0 +1,12 @@
+{
+  "name": "ask_eligibility_criteria",
+  "auto": true,
+  "webhookUsed": true,
+  "responses": [
+    {
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {}
+    }
+  ]
+}

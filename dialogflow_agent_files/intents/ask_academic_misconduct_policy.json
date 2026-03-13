@@ -1,0 +1,12 @@
+{
+  "name": "ask_academic_misconduct_policy",
+  "auto": true,
+  "webhookUsed": true,
+  "responses": [
+    {
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {}
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+Python virtual environment & cache files
+These are specific to your local machine and don't need to be shared.
+venv/
+pycache/
+*.pyc
+
+Secret files that should NEVER be shared publicly
+This is the most important section for security.
+.env
+credentials.json
+
+IDE and OS specific files
+These are just clutter and can cause issues for other team members.
+.vscode/
+.DS_Store
+serviceAccountKey.json
+service-account-key.json

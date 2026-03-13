@@ -1,0 +1,42 @@
+[
+  {
+    "data": [
+      {
+        "text": "क्या छात्रावास की सुविधा उपलब्ध है?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "कॉलेज आवास के बारे में बताएं।",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "छात्रावास का शुल्क क्या है?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "क्या छात्रावास में मेस की सुविधा शामिल है?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

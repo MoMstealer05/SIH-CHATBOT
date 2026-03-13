@@ -1,0 +1,42 @@
+[
+  {
+    "data": [
+      {
+        "text": "શું કોઈ શિષ્યવૃત્તિ ઉપલબ્ધ છે?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "હું શિષ્યવૃત્તિ માટે કેવી રીતે અરજી કરી શકું?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "શિષ્યવૃત્તિ માટે પાત્રતા માપદંડ શું છે?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "મને નાણાકીય સહાયના વિકલ્પો વિશે કહો.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

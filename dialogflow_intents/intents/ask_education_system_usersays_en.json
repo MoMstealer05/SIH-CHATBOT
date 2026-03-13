@@ -1,0 +1,145 @@
+[
+    {
+        "id": "f415fa64-7277-4a7b-92f2-c6c7d56e306e",
+        "data": [
+            {
+                "text": "What education system does the college follow?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "d0a30d41-de55-4077-9891-4c90c02cd361",
+        "data": [
+            {
+                "text": "Is it a semester-based system?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "4da285b7-46ed-4d55-b186-a5233785a86a",
+        "data": [
+            {
+                "text": "Tell me about the academic structure.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "79ae0c7f-1c92-4bdb-be4f-b1ea45be2645",
+        "data": [
+            {
+                "text": "How does the credit system work?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "4fb810b1-2dea-4e77-992f-1469ac1a5459",
+        "data": [
+            {
+                "text": "Is the curriculum based on CBCS?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "cd61d2e3-b574-4180-a7b7-69635071a523",
+        "data": [
+            {
+                "text": "college kon sa education system follow karta hai?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "5c383eca-96ad-4bb8-98e9-eeb47c7a24d7",
+        "data": [
+            {
+                "text": "semester based system hai kya?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "a1211c5b-e038-4b55-a586-ee902668c688",
+        "data": [
+            {
+                "text": "credit system kaise kaam karta hai?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "f6b9c6f9-95d9-4855-8c38-207f79e9b5d5",
+        "data": [
+            {
+                "text": "college kai shikshan pranali ne anusare chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "4fcc47fb-7f4f-4ee2-aa25-bdcb4ea8cf79",
+        "data": [
+            {
+                "text": "shu te semester-based system chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "e0e6f789-58b0-4138-ae21-5563b370015f",
+        "data": [
+            {
+                "text": "credit system kevi rite kaam kare chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    }
+]

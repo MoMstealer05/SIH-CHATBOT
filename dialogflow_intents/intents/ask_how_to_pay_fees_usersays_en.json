@@ -1,0 +1,145 @@
+[
+    {
+        "id": "5208765c-2ae7-4c47-8eeb-4be0690d23c8",
+        "data": [
+            {
+                "text": "How can I pay my college fees?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "a6ed4c09-92ca-4b05-bb5a-706ba18c3b7c",
+        "data": [
+            {
+                "text": "What are the different payment methods for fees?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "e0b7425f-31d1-4f04-a1b9-2567ac2c09b2",
+        "data": [
+            {
+                "text": "Can I pay my fees online?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "c5247c39-602b-41c0-b1e1-7ae3c04bdf9e",
+        "data": [
+            {
+                "text": "Where is the cash counter for fee payment?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "d5a10159-ac01-4198-a04c-0951a188bae6",
+        "data": [
+            {
+                "text": "What is the link for the payment portal?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "6a58df0b-356f-47f8-8cd5-b197a904d55b",
+        "data": [
+            {
+                "text": "college fees kaise pay kar sakta hu?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "a8e6e9f5-8351-404b-a555-78ddd495bcc5",
+        "data": [
+            {
+                "text": "fees pay karne ke kya methods hai?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "393faa12-2138-4d67-827b-57bab4dc0ca1",
+        "data": [
+            {
+                "text": "online fees pay kar sakte hai?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "a77fbf94-21b0-441b-a412-352aba6b8206",
+        "data": [
+            {
+                "text": "college ni fees kevi rite bharvanu?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "5832c1cb-bfcf-4527-873d-af4b361dbbdb",
+        "data": [
+            {
+                "text": "fees bharvana alag alag method kaya chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "20d8494b-b426-4f5e-9e7f-c0ef140164b2",
+        "data": [
+            {
+                "text": "online fees bhari shakay?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    }
+]

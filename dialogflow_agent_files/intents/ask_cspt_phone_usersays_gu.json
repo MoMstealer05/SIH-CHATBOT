@@ -1,0 +1,22 @@
+[
+  {
+    "data": [
+      {
+        "text": "CSPIT નો ફોન નંબર શું છે?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "હું CSPIT ઓફિસમાં કેવી રીતે ફોન કરી શકું?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

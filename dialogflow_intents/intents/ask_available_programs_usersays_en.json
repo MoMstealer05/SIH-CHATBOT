@@ -1,0 +1,145 @@
+[
+    {
+        "id": "e9381086-9f5a-4d21-a222-ae804d7581b6",
+        "data": [
+            {
+                "text": "What courses do you offer?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "fb1d9a2d-7cad-4f09-9154-35c35beee416",
+        "data": [
+            {
+                "text": "What programs are available at this college?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "177057d5-e424-469c-b55a-ace681e973ec",
+        "data": [
+            {
+                "text": "Can you list the different departments?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "6b13ed17-7f2b-4517-8c71-6e6f6beea935",
+        "data": [
+            {
+                "text": "I want to know about the engineering branches available.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "4b3dcd4a-9e41-4dcd-bf62-b9029b3475bc",
+        "data": [
+            {
+                "text": "Do you have a computer science program?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "1b80a6fd-e118-40d5-b98e-b8eaf356a80c",
+        "data": [
+            {
+                "text": "aap kaun se course offer karte hain?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "ca65e329-7a42-46a7-9c30-b088c5afd7b6",
+        "data": [
+            {
+                "text": "is college me kon se programs available hai?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "51cbb3a7-13d9-4ca3-8d54-c96d8e9736d9",
+        "data": [
+            {
+                "text": "kya computer science program hai?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "b17f5d89-2fa0-4db6-8a54-244daa837b2d",
+        "data": [
+            {
+                "text": "tame kaya abhyaskram offer karo chho?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "3da3078e-2cf5-477e-b151-300b139bf4b4",
+        "data": [
+            {
+                "text": "aa college ma kaya program available chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "eedb4185-c9e9-41e0-b701-81abd3d9f720",
+        "data": [
+            {
+                "text": "shu tamari pase computer science program chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "id": "75593057-e547-4993-90d5-c92852ceedd7",
+        "data": [
+            {
+                "text": "What is the passing criteria for exams?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "7340a8aa-2789-4404-ac6a-9199e92c4155",
+        "data": [
+            {
+                "text": "How many marks are needed to pass a subject?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "8cf55c76-b2d4-4f9c-9dc9-066d492ee89c",
+        "data": [
+            {
+                "text": "What is the passing percentage?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "8c2c85c4-054f-4de3-9866-d7c5b13d8db6",
+        "data": [
+            {
+                "text": "Tell me about the passing marks.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "a37fc86a-fcef-47cb-8df4-ec8053cb55e6",
+        "data": [
+            {
+                "text": "How is the final grade calculated?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "4a306a03-a40d-4770-b0a1-50daedd05ed7",
+        "data": [
+            {
+                "text": "exam pass karne ka criteria kya hai?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "6c60ecba-7e69-431c-8631-45db7ad58e6f",
+        "data": [
+            {
+                "text": "subject me pass hone ke liye kitne marks chahiye?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "b2f2335d-57e6-4a94-9a6e-b4b50face22a",
+        "data": [
+            {
+                "text": "passing percentage kitna hai?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "e5b909e4-1962-43f3-976e-5c98028f2ea9",
+        "data": [
+            {
+                "text": "exam pass karva mate no criteria shu chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "f5694295-c194-413a-b7ff-d563be787cc5",
+        "data": [
+            {
+                "text": "ek subject ma pass thava mate ketla marks joiye?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "1e2ae242-2d7c-414a-a1a7-7fb9fdacda46",
+        "data": [
+            {
+                "text": "passing takavari ketli chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    }
+]

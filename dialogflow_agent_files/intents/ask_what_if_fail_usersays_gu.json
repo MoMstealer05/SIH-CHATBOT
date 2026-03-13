@@ -1,0 +1,32 @@
+[
+  {
+    "data": [
+      {
+        "text": "જો હું કોઈ વિષયમાં નાપાસ થાઉં તો શું?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "જો મને બેકલોગ આવે તો શું થાય?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "જો હું નાપાસ થાઉં તો ફરી પરીક્ષા લેવાય છે?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "id": "35e56121-7cd9-4071-afe2-9045a1811592",
+        "data": [
+            {
+                "text": "How do I apply for admission?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "b78e71f7-d201-4f04-9560-7f169b77ea21",
+        "data": [
+            {
+                "text": "What is the admission process?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "807a7a93-5ca9-4c44-b103-3d689844a445",
+        "data": [
+            {
+                "text": "What are the steps for getting admission here?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "a22a6ef6-ab14-4692-95fe-e193d38213d7",
+        "data": [
+            {
+                "text": "Tell me about the application procedure.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "0af9cc2c-54e1-422d-88a6-7990be76ce0e",
+        "data": [
+            {
+                "text": "What documents are required for admission?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "899d7e72-4f31-48df-8e27-b7360dfb4205",
+        "data": [
+            {
+                "text": "admission ke liye kaise apply karu?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "d91b61c2-2d9f-4465-ae9a-50d30bd844db",
+        "data": [
+            {
+                "text": "admission process kya hai?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "bfec89ab-e73d-496a-8e52-9825c89ded91",
+        "data": [
+            {
+                "text": "admission ke liye kya documents chahiye?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "b8c29a2a-0b14-4468-8222-a152cb690e0b",
+        "data": [
+            {
+                "text": "admission mate kevi rite apply karvanu?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "5e072496-9852-438e-a509-7bfc2a2043bc",
+        "data": [
+            {
+                "text": "admission process shu chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "fcd03b1b-ab78-402a-bee6-7d7059a0d821",
+        "data": [
+            {
+                "text": "admission mate kaya documents joiye?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    }
+]

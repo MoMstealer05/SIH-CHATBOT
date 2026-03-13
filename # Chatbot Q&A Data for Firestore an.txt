@@ -1,0 +1,133 @@
+# Chatbot Q&A Data for Firestore and Dialogflow
+
+## ---------------------
+## Original Questions
+## ---------------------
+
+# 1. Office Hours
+intentName: ask_office_hours
+responseText (en): The administrative offices at CHARUSAT operate from 09:00 AM to 4:30 PM, Monday to Saturday (except public holidays and the 2nd & 4th Saturdays).
+responseText (hi): CHARUSAT के प्रशासनिक कार्यालय सुबह 09:00 बजे से शाम 4:30 बजे तक, सोमवार से शनिवार (सार्वजनिक छुट्टियों और दूसरे और चौथे शनिवार को छोड़कर) खुले रहते हैं।
+responseText (gu): CHARUSAT ખાતેની વહીવટી કચેરીઓ સવારે 09:00 થી સાંજે 4:30 સુધી, સોમવારથી શનિવાર (જાહેર રજાઓ અને બીજા અને ચોથા શનિવાર સિવાય) કાર્યરત રહે છે.
+
+# 2. Contact Details
+intentName: ask_contact_details
+responseText (en): Address: Charotar University of Science and Technology, CHARUSAT Campus, Off Nadiad-Petlad Highway, Changa-388421. Phone: +91 2697 265011 / 21. Email: info@charusat.ac.in.
+responseText (hi): पता: चारotar यूनिवर्सिटी ऑफ साइंस एंड टेक्नोलॉजी, CHARUSAT कैंपस, ऑफ नाडियाड-पेटलाद हाईवे, चंगा-388421। फ़ोन: +91 2697 265011 / 21। ईमेल: info@charusat.ac.in।
+responseText (gu): સરનામું: ચરોતર યુનિવર્સિટી ઓફ સાયન્સ એન્ડ ટેકનોલોજી, CHARUSAT કેમ્પસ, ઓફ નડિયાદ-પેટલાદ હાઇવે, ચાંગા-388421. ફોન: +91 2697 265011 / 21. ઇમેઇલ: info@charusat.ac.in.
+
+# 3. Academic Calendar
+intentName: find_academic_calendar
+responseText (en): The academic calendar is available via the “Academic Calendar” link on the CHARUSAT website.
+responseText (hi): शैक्षणिक कैलेंडर CHARUSAT वेबसाइट पर "अकादमिक कैलेंडर" लिंक के माध्यम से उपलब्ध है।
+responseText (gu): શૈક્ષણિક કેલેન્ડર CHARUSAT વેબસાઇટ પર "એકેડેમિક કેલેન્ડર" લિંક દ્વારા ઉપલબ્ધ છે.
+
+# 4. Holidays and Notices
+intentName: find_holidays_notices
+responseText (en): Public holidays, notices, and important circulars are posted under the “Public Holidays” and “Notifications / Downloads” sections on the website.
+responseText (hi): सार्वजनिक अवकाश, नोटिस और महत्वपूर्ण परिपत्र वेबसाइट पर "सार्वजनिक अवकाश" और "अधिसूचनाएं / डाउनलोड" अनुभागों के तहत पोस्ट किए जाते हैं।
+responseText (gu): જાહેર રજાઓ, સૂચનાઓ અને મહત્વપૂર્ણ પરિપત્રો વેબસાઇટ પર "જાહેર રજાઓ" અને "સૂચનાઓ / ડાઉનલોડ્સ" વિભાગ હેઠળ પોસ્ટ કરવામાં આવે છે.
+
+# 5. Available Programs
+intentName: ask_available_programs
+responseText (en): CHARUSAT offers a wide variety of programs including B.Tech, BCA, B.Sc (IT), B.Pharm, BBA, BPT, M.Tech, MCA, M.Sc (IT), M.Pharm, MBA, and Ph.D. Programmes.
+responseText (hi): CHARUSAT विभिन्न प्रकार के कार्यक्रम प्रदान करता है जिनमें बी.टेक, बीसीए, बी.एससी (आईटी), बी.फार्मा, बीबीए, बीपीटी, एम.टेक, एमसीए, एम.एससी (आईटी), एम.फार्मा, एमबीए और पीएचडी कार्यक्रम शामिल हैं।
+responseText (gu): CHARUSAT B.Tech, BCA, B.Sc (IT), B.Pharm, BBA, BPT, M.Tech, MCA, M.Sc (IT), M.Pharm, MBA, અને Ph.D. પ્રોગ્રામ્સ સહિત વિવિધ પ્રોગ્રામ્સ ઓફર કરે છે.
+
+# 6. Fee Structure
+intentName: find_fee_structure
+responseText (en): The fee structure is linked under “Fees” on the CHARUSAT site. You can check or download the detailed fee schedule.
+responseText (hi): शुल्क संरचना CHARUSAT साइट पर "शुल्क" के तहत जुड़ी हुई है। आप विस्तृत शुल्क अनुसूची देख या डाउनलोड कर सकते हैं।
+responseText (gu): ફીનું માળખું CHARUSAT સાઇટ પર "ફી" હેઠળ લિંક થયેલ છે. તમે વિગતવાર ફી શેડ્યૂલ ચકાસી અથવા ડાઉનલોડ કરી શકો છો.
+
+# 7. How to Pay Fees
+intentName: ask_how_to_pay_fees
+responseText (en): There is a “Pay Fees” link on the CHARUSAT site (support.charusat.ac.in) for online fee transactions.
+responseText (hi): ऑनलाइन शुल्क लेनदेन के लिए CHARUSAT साइट (support.charusat.ac.in) पर एक "शुल्क भुगतान करें" लिंक है।
+responseText (gu): ઓનલાઈન ફી ટ્રાન્ઝેક્શન માટે CHARUSAT સાઇટ (support.charusat.ac.in) પર "ફી ચૂકવો" લિંક છે.
+
+# 8. Hostel Facility
+intentName: ask_hostel_facility
+responseText (en): Yes, CHARUSAT has hostel facilities, and information is available under the “Hostels” section on their website.
+responseText (hi): हाँ, CHARUSAT में छात्रावास की सुविधाएँ हैं, और जानकारी उनकी वेबसाइट पर "छात्रावास" अनुभाग के तहत उपलब्ध है।
+responseText (gu): હા, CHARUSAT પાસે હોસ્ટેલની સુવિધાઓ છે, અને માહિતી તેમની વેબસાઇટ પર "હોસ્ટેલ" વિભાગ હેઠળ ઉપલબ્ધ છે.
+
+# 9. Transport Facility
+intentName: ask_transport_facility
+responseText (en): You can find transport information through the “Transportation” link on the website.
+responseText (hi): आप वेबसाइट पर "परिवहन" लिंक के माध्यम से परिवहन जानकारी प्राप्त कर सकते हैं।
+responseText (gu): તમે વેબસાઇટ પર "પરિવહન" લિંક દ્વારા પરિવહન માહિતી મેળવી શકો છો.
+
+# 10. Policies and Rules
+intentName: find_policies_rules
+responseText (en): The “Policies and Procedures – Support Facilities” section on the CHARUSAT website lists all institutional policies, procedures, code of conduct, etc.
+responseText (hi): CHARUSAT वेबसाइट पर "नीतियां और प्रक्रियाएं - सहायता सुविधाएं" अनुभाग में सभी संस्थागत नीतियां, प्रक्रियाएं, आचार संहिता आदि सूचीबद्ध हैं।
+responseText (gu): CHARUSAT વેબસાઇટ પર "નીતિઓ અને પ્રક્રિયાઓ - સહાયક સુવિધાઓ" વિભાગ તમામ સંસ્થાકીય નીતિઓ, પ્રક્રિયાઓ, આચારસંહિતા વગેરેની સૂચિ આપે છે.
+
+# 11. Grievance Cells
+intentName: find_grievance_cells
+responseText (en): CHARUSAT has multiple cells like the Student Grievance Redressal Cell and Equal Opportunity Cell. Their details are listed under “Centers & Cells” on the site.
+responseText (hi): CHARUSAT में छात्र शिकायत निवारण प्रकोष्ठ और समान अवसर प्रकोष्ठ जैसी कई कोशिकाएँ हैं। उनका विवरण साइट पर "केंद्र और प्रकोष्ठ" के तहत सूचीबद्ध है।
+responseText (gu): CHARUSAT પાસે વિદ્યાર્થી ફરિયાદ નિવારણ સેલ અને સમાન તક સેલ જેવા બહુવિધ સેલ છે. તેમની વિગતો સાઇટ પર "કેન્દ્રો અને સેલ" હેઠળ સૂચિબદ્ધ છે.
+
+## ---------------------
+## Additional Questions
+## ---------------------
+
+# 12. Admission Process
+intentName: ask_admission_process
+responseText (en): The admission process is conducted online through the admission portal on the CHARUSAT website. You need to register, fill out the application form, and upload the required documents.
+responseText (hi): प्रवेश प्रक्रिया CHARUSAT वेबसाइट पर ऑनलाइन प्रवेश पोर्टल के माध्यम से की जाती है। आपको पंजीकरण करना होगा, आवेदन पत्र भरना होगा और आवश्यक दस्तावेज अपलोड करने होंगे।
+responseText (gu): પ્રવેશ પ્રક્રિયા CHARUSAT વેબસાઇટ પર ઓનલાઈન એડમિશન પોર્ટલ દ્વારા હાથ ધરવામાં આવે છે. તમારે નોંધણી કરાવવી પડશે, અરજીપત્રક ભરવું પડશે અને જરૂરી દસ્તાવેજો અપલોડ કરવા પડશે.
+
+# 13. Eligibility Criteria
+intentName: ask_eligibility_criteria
+responseText (en): Eligibility criteria vary for each program. Please visit the specific program's page under the "Admissions" section of the website for detailed information.
+responseText (hi): प्रत्येक कार्यक्रम के लिए पात्रता मानदंड अलग-अलग हैं। विस्तृत जानकारी के लिए कृपया वेबसाइट के "प्रवेश" अनुभाग के तहत विशिष्ट कार्यक्रम के पेज पर जाएं।
+responseText (gu): દરેક પ્રોગ્રામ માટે યોગ્યતાના માપદંડો અલગ-અલગ હોય છે. વિગતવાર માહિતી માટે કૃપા કરીને વેબસાઇટના "એડમિશન" વિભાગ હેઠળના ચોક્કસ પ્રોગ્રામના પેજની મુલાકાત લો.
+
+# 14. Library Timings
+intentName: ask_library_timings
+responseText (en): The Central Library is open from 8:30 AM to 8:00 PM on weekdays and from 9:30 AM to 5:00 PM on weekends and holidays.
+responseText (hi): केंद्रीय पुस्तकालय सप्ताह के दिनों में सुबह 8:30 बजे से रात 8:00 बजे तक और सप्ताहांत और छुट्टियों में सुबह 9:30 बजे से शाम 5:00 बजे तक खुला रहता है।
+responseText (gu): સેન્ટ્રલ લાઇબ્રેરી અઠવાડિયાના દિવસોમાં સવારે 8:30 થી રાત્રે 8:00 વાગ્યા સુધી અને સપ્તાહના અંતે અને રજાઓમાં સવારે 9:30 થી સાંજે 5:00 વાગ્યા સુધી ખુલ્લી રહે છે.
+
+# 15. Sports Facilities
+intentName: ask_sports_facilities
+responseText (en): CHARUSAT has extensive sports facilities, including grounds for cricket, football, volleyball, and courts for basketball and badminton, along with a gymnasium.
+responseText (hi): CHARUSAT में क्रिकेट, फुटबॉल, वॉलीबॉल के मैदान और बास्केटबॉल और बैडमिंटन के कोर्ट के साथ-साथ एक व्यायामशाला सहित व्यापक खेल सुविधाएं हैं।
+responseText (gu): CHARUSAT માં વ્યાપક રમતગમત સુવિધાઓ છે, જેમાં ક્રિકેટ, ફૂટબોલ, વોલીબોલ માટેના મેદાનો અને બાસ્કેટબોલ અને બેડમિન્ટન માટેના કોર્ટની સાથે એક વ્યાયામશાળાનો સમાવેશ થાય છે.
+
+# 16. Wi-Fi Access
+intentName: ask_wifi_access
+responseText (en): The entire CHARUSAT campus is Wi-Fi enabled. Students and staff can connect to the network using their official login credentials.
+responseText (hi): पूरा CHARUSAT परिसर वाई-फाई सक्षम है। छात्र और कर्मचारी अपने आधिकारिक लॉगिन क्रेडेंशियल्स का उपयोग करके नेटवर्क से जुड़ सकते हैं।
+responseText (gu): સમગ્ર CHARUSAT કેમ્પસ Wi-Fi સક્ષમ છે. વિદ્યાર્થીઓ અને સ્ટાફ તેમના સત્તાવાર લોગિન ઓળખપત્રોનો ઉપયોગ કરીને નેટવર્કથી કનેક્ટ થઈ શકે છે.
+
+## ---------------------
+## Button Questions
+## ---------------------
+
+# 17. Exam Timetable
+intentName: find_exam_timetable
+responseText (en): The exam timetable is published on the official CHARUSAT website under the "Examination Section". Please check there for the most up-to-date schedule for your program.
+responseText (hi): परीक्षा समय सारणी CHARUSAT की आधिकारिक वेबसाइट पर "परीक्षा अनुभाग" के तहत प्रकाशित की जाती है। कृपया अपने कार्यक्रम के लिए नवीनतम अनुसूची के लिए वहां जांचें।
+responseText (gu): પરીક્ષાનું સમયપત્રક CHARUSAT ની સત્તાવાર વેબસાઇટ પર "પરીક્ષા વિભાગ" હેઠળ પ્રકાશિત કરવામાં આવે છે. કૃપા કરીને તમારા પ્રોગ્રામ માટે સૌથી અદ્યતન શેડ્યૂલ માટે ત્યાં તપાસ કરો.
+
+# 18. Scholarships
+intentName: ask_about_scholarships
+responseText (en): CHARUSAT offers various scholarships and financial aid. You can find detailed information, eligibility criteria, and application forms on the "Scholarships" page of the university website.
+responseText (hi): CHARUSAT विभिन्न छात्रवृत्तियाँ और वित्तीय सहायता प्रदान करता है। आप विश्वविद्यालय की वेबसाइट के "छात्रवृत्ति" पृष्ठ पर विस्तृत जानकारी, पात्रता मानदंड और आवेदन पत्र पा सकते हैं।
+responseText (gu): CHARUSAT વિવિધ શિષ્યવૃત્તિઓ અને નાણાકીય સહાય પૂરી પાડે છે. તમે યુનિવર્સિટીની વેબસાઇટના "શિષ્યવૃત્તિ" પૃષ્ઠ પર વિગતવાર માહિતી, યોગ્યતાના માપદંડો અને અરજીપત્રો શોધી શકો છો.
+
+# 19. Library Card
+intentName: ask_how_to_get_library_card
+responseText (en): To get a library card, you need to visit the Central Library with your student ID card. The library staff will guide you through the registration process.
+responseText (hi): पुस्तकालय कार्ड प्राप्त करने के लिए, आपको अपने छात्र पहचान पत्र के साथ केंद्रीय पुस्तकालय जाना होगा। पुस्तकालय कर्मचारी आपको पंजीकरण प्रक्रिया में मार्गदर्शन करेंगे।
+responseText (gu): લાઇબ્રેરી કાર્ડ મેળવવા માટે, તમારે તમારા વિદ્યાર્થી ઓળખપત્ર સાથે સેન્ટ્રલ લાઇબ્રેરીની મુલાકાત લેવાની જરૂર છે. લાઇબ્રેરીનો સ્ટાફ તમને નોંધણી પ્રક્રિયામાં માર્ગદર્શન આપશે.
+
+# 20. Fee Deadline
+intentName: ask_fee_deadline
+responseText (en): The fee payment deadline is announced at the beginning of each semester and is listed in the academic calendar on the CHARUSAT website.
+responseText (hi): शुल्क भुगतान की अंतिम तिथि प्रत्येक सेमेस्टर की शुरुआत में घोषित की जाती है और CHARUSAT वेबसाइट पर शैक्षणिक कैलेंडर में सूचीबद्ध होती है।
+responseText (gu): ફી ચુકવણીની અંતિમ તારીખ દરેક સેમેસ્ટરની શરૂઆતમાં જાહેર કરવામાં આવે છે અને CHARUSAT વેબસાઇટ પર શૈક્ષણિક કેલેન્ડરમાં સૂચિબદ્ધ હોય છે.

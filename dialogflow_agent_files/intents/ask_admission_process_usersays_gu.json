@@ -1,0 +1,32 @@
+[
+  {
+    "data": [
+      {
+        "text": "હું પ્રવેશ માટે કેવી રીતે અરજી કરી શકું?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "પ્રવેશ પ્રક્રિયા શું છે?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "પ્રવેશ માટે કયા દસ્તાવેજો જરૂરી છે?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

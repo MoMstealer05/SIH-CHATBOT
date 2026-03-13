@@ -1,0 +1,41 @@
+[
+    {
+        "id": "f0b1b9e0-85d1-4194-94d7-78e6f09416f4",
+        "data": [
+            {
+                "text": "હું પ્રવેશ માટે કેવી રીતે અરજી કરી શકું?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "0058fe14-5be6-4eba-ba7c-5e98b2368663",
+        "data": [
+            {
+                "text": "પ્રવેશ પ્રક્રિયા શું છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "a17bd3cc-869e-444a-b294-74bf32fabad0",
+        "data": [
+            {
+                "text": "પ્રવેશ માટે કયા દસ્તાવેજો જરૂરી છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    }
+]

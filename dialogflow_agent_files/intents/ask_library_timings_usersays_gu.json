@@ -1,0 +1,32 @@
+[
+  {
+    "data": [
+      {
+        "text": "લાઇબ્રેરીનો સમય શું છે?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "લાઇબ્રેરી ક્યારે ખુલે છે?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "શું લાઇબ્રેરી સપ્તાહના અંતે ખુલ્લી રહે છે?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

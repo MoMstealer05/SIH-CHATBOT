@@ -1,0 +1,119 @@
+[
+    {
+        "id": "298a695e-b343-4014-90cb-9b160840a1e4",
+        "data": [
+            {
+                "text": "What sports facilities are available?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "51734ae9-6f2b-4865-aabf-864d3a7b8672",
+        "data": [
+            {
+                "text": "Is there a gym?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "bb09ded8-833a-486a-bafd-312bda547f85",
+        "data": [
+            {
+                "text": "Tell me about the sports complex.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "186da6e0-c09c-4bce-b6ec-969841ea5419",
+        "data": [
+            {
+                "text": "Can we play cricket on campus?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "dedeae5b-218f-4e68-97c8-331472590a48",
+        "data": [
+            {
+                "text": "Do you have a basketball court?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "eef93cec-c567-48c6-8106-76878f178a78",
+        "data": [
+            {
+                "text": "konsi sports facilities available hain?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "9ab820b0-c9be-4b1f-b41d-397a9ecbf5a2",
+        "data": [
+            {
+                "text": "gym hai kya?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "53c5c2d6-3412-4334-bcbd-80e48a192452",
+        "data": [
+            {
+                "text": "ramatgamat ni kai suvidhao uplabdh chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "8772a3c4-0156-4e2e-84d3-e1109e228dd0",
+        "data": [
+            {
+                "text": "shu gym chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    }
+]

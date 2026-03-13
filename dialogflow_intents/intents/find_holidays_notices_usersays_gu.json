@@ -1,0 +1,28 @@
+[
+    {
+        "id": "cb53c54e-d399-4d40-9009-4fa4bf0f0500",
+        "data": [
+            {
+                "text": "રજાઓની યાદી",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "6bd182be-261a-4398-abde-07d231d424a3",
+        "data": [
+            {
+                "text": "આગામી રજા ક્યારે છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    }
+]

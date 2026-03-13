@@ -1,0 +1,41 @@
+[
+    {
+        "id": "675525c4-2df0-47fd-82ac-00bfee51170c",
+        "data": [
+            {
+                "text": "प्रवेश के लिए पात्रता मानदंड क्या हैं?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "6c980096-0422-46fa-898c-13f6ef696919",
+        "data": [
+            {
+                "text": "बी.ई. कार्यक्रम के लिए कौन पात्र है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "317eb394-cc19-4de6-b5e6-68f2709f0dec",
+        "data": [
+            {
+                "text": "कंप्यूटर इंजीनियरिंग के लिए कितने प्रतिशत की आवश्यकता है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    }
+]

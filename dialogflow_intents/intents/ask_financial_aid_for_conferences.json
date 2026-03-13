@@ -1,0 +1,25 @@
+{
+    "id": "1e13cdc2-30bc-4ed6-9886-8a667b6eee2b",
+    "name": "ask_financial_aid_for_conferences",
+    "auto": true,
+    "contexts": [],
+    "responses": [
+        {
+            "resetContexts": false,
+            "affectedContexts": [],
+            "parameters": [],
+            "messages": [
+                {
+                    "type": "message",
+                    "lang": "en",
+                    "speech": "Webhook response for ask_financial_aid_for_conferences."
+                }
+            ],
+            "defaultResponsePlatforms": {}
+        }
+    ],
+    "priority": 500000,
+    "webhookUsed": true,
+    "fallbackIntent": false,
+    "events": []
+}

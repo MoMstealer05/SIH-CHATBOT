@@ -1,0 +1,41 @@
+[
+    {
+        "id": "b9f0bd91-8351-4792-9be5-4a14db873bf7",
+        "data": [
+            {
+                "text": "न्यूनतम कितनी उपस्थिति आवश्यक है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "fb939fb2-0ab8-42a9-8245-8d19a86a0589",
+        "data": [
+            {
+                "text": "मुझे कितनी उपस्थिति बनाए रखनी होगी?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "46c866f1-2560-4bbd-a565-99b1ef4c995a",
+        "data": [
+            {
+                "text": "कम उपस्थिति होने पर क्या होता है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    }
+]

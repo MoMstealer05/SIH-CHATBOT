@@ -1,0 +1,28 @@
+[
+    {
+        "id": "fc53273a-850e-4f57-8205-a73a43511104",
+        "data": [
+            {
+                "text": "રમતગમતની કઈ સુવિધાઓ ઉપલબ્ધ છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "c988f5a1-3a7b-4f45-b446-01ae7dab55b6",
+        "data": [
+            {
+                "text": "શું જિમ છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    }
+]

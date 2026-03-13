@@ -1,0 +1,22 @@
+[
+  {
+    "data": [
+      {
+        "text": "क्या बस सेवा है?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "कॉलेज परिवहन सुविधा के बारे में बताएं।",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

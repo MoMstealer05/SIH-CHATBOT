@@ -1,0 +1,145 @@
+[
+    {
+        "id": "30b2180d-f0ef-4e7c-bf41-945f82e1923b",
+        "data": [
+            {
+                "text": "How can I contact the college?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "00f25676-fe71-4cc7-a9eb-611746cb2adf",
+        "data": [
+            {
+                "text": "What is the college's phone number?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "3bc50914-fa54-489c-b8c3-92b0973493af",
+        "data": [
+            {
+                "text": "What is the official email address?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "13a8dfc4-63e7-47ff-8c21-dc847e51d1bd",
+        "data": [
+            {
+                "text": "I need the contact details for the administration office.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "cbb912fc-0da8-4d45-86e9-3d49c2c6cfe0",
+        "data": [
+            {
+                "text": "Can you give me the address of the college?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "69e3ece7-0f5d-4f8e-932c-e953e804a5bf",
+        "data": [
+            {
+                "text": "college se kaise contact karu?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "d0051558-ff56-4639-a2a5-c38e5c9dd00f",
+        "data": [
+            {
+                "text": "college ka phone number kya hai?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "6d3fedb7-e35c-43b8-a10c-0204cd60e43d",
+        "data": [
+            {
+                "text": "official email address kya hai?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "21265073-bc13-40b9-9a69-d809894b0b84",
+        "data": [
+            {
+                "text": "college no sampark kevi rite karu?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "79400aa4-173f-494a-a68d-f52f0579135c",
+        "data": [
+            {
+                "text": "college no phone number shu chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "1a23efd7-df77-44fe-95b6-a9433499ba60",
+        "data": [
+            {
+                "text": "official email address shu chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    }
+]

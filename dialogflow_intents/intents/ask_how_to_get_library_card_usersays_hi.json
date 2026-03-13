@@ -1,0 +1,41 @@
+[
+    {
+        "id": "13ee6a64-b3cf-401f-9aad-00eb904e6b53",
+        "data": [
+            {
+                "text": "मुझे लाइब्रेरी कार्ड कैसे मिलेगा?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "612ac24a-17f9-49a0-82e8-879ed76a9edb",
+        "data": [
+            {
+                "text": "लाइब्रेरी सदस्यता प्राप्त करने की प्रक्रिया क्या है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "51d82697-a180-4607-82e4-cca44043e476",
+        "data": [
+            {
+                "text": "लाइब्रेरी कार्ड के लिए कौन से दस्तावेज़ चाहिए?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    }
+]

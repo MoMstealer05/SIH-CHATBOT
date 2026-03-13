@@ -1,0 +1,197 @@
+[
+    {
+        "id": "5a47c060-2d16-4b40-bfe7-4f6369db7d3c",
+        "data": [
+            {
+                "text": "Is there a hostel facility available?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "5828ff27-abd7-4422-a6c0-b6f4321fd845",
+        "data": [
+            {
+                "text": "Tell me about the college accommodation.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "b5031c66-ee25-4f3c-8dd6-8260c287b9fe",
+        "data": [
+            {
+                "text": "How are the hostel rooms?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "5f2751af-d25f-4c4f-a16a-b5ac9d3089d4",
+        "data": [
+            {
+                "text": "What are the hostel charges?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "ad7c06b8-ed92-4116-978b-49642552a5ca",
+        "data": [
+            {
+                "text": "Is the mess facility included with the hostel?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "79599609-3b86-4ad2-8ac5-e9a4199ff12e",
+        "data": [
+            {
+                "text": "How do I apply for the hostel?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "f05778bd-912d-4f34-8c0d-51b664288be5",
+        "data": [
+            {
+                "text": "Are the hostels separate for boys and girls?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "ffd51423-c176-47b5-9fda-1cc62102276f",
+        "data": [
+            {
+                "text": "hostel facility available hai?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "8158c243-ec72-4619-aad2-5581fdf1da6c",
+        "data": [
+            {
+                "text": "college accommodation ke bare me batao.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "cc7b9343-ff36-4f12-b6f2-4fd2d059e2d6",
+        "data": [
+            {
+                "text": "hostel charges kya hain?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "adec0c7f-3171-4909-953d-a95c20604f7d",
+        "data": [
+            {
+                "text": "mess facility included hai kya?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "b169a0d1-3204-40d5-a784-ce3c5177faa4",
+        "data": [
+            {
+                "text": "hostel facility chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "1156432c-e18b-4fb7-aa42-d54bc3d08f07",
+        "data": [
+            {
+                "text": "college na accommodation vishe janavo.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "5f911559-f280-4ce9-9ca7-c46289e57ac0",
+        "data": [
+            {
+                "text": "hostel no charge shu chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "709650f8-4cfb-4753-ba42-6203b7fbba57",
+        "data": [
+            {
+                "text": "mess ni suvidha chhe hostel ma?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    }
+]

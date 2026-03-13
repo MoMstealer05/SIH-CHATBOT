@@ -1,0 +1,41 @@
+[
+    {
+        "id": "6e9cd5a1-9db1-4299-b270-40061c4b8390",
+        "data": [
+            {
+                "text": "પ્રવેશ ફી રિફંડ નીતિ શું છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "4a1eedac-dbff-43b1-a70c-88d5d983fc6f",
+        "data": [
+            {
+                "text": "જો હું મારો પ્રવેશ રદ કરું, તો શું મને રિફંડ મળશે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "37144bc2-4bfa-4cf8-8a06-8a4932e0255a",
+        "data": [
+            {
+                "text": "શું મને મારી પ્રવેશ ફીનું સંપૂર્ણ રિફંડ મળી શકે છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    }
+]

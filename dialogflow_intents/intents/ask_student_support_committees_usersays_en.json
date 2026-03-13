@@ -1,0 +1,119 @@
+[
+    {
+        "id": "647689c2-c930-4c76-a7e6-758fe02959b2",
+        "data": [
+            {
+                "text": "What student committees are there?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "5a26d565-042d-4100-a442-4006da016b64",
+        "data": [
+            {
+                "text": "Tell me about student support.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "7869a270-9509-41a0-852c-c0b9de3324ae",
+        "data": [
+            {
+                "text": "Are there any clubs I can join?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "3f72b2f4-81c7-48f6-90de-5a8b2e8d4251",
+        "data": [
+            {
+                "text": "Who can I contact for student support?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "5adeda38-1239-4e02-9831-6506f12606a6",
+        "data": [
+            {
+                "text": "List of student committees.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "44062e0b-1f16-4537-97a9-cd71c3b23e96",
+        "data": [
+            {
+                "text": "konsi student committees hain?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "a7579a0c-f2cf-4179-ae3d-9d0a3b63bb1c",
+        "data": [
+            {
+                "text": "student support ke bare me batao.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "794e4aad-59fd-43fa-b55f-0ee7a7b56ec5",
+        "data": [
+            {
+                "text": "kai vidyarthi samitio chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "183fb17e-3a84-4e87-b90d-697d48d62df4",
+        "data": [
+            {
+                "text": "vidyarthi support vishe mane kaho.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    }
+]

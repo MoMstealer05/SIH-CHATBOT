@@ -1,0 +1,12 @@
+{
+  "name": "ask_cspt_principal_email",
+  "auto": true,
+  "webhookUsed": true,
+  "responses": [
+    {
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {}
+    }
+  ]
+}

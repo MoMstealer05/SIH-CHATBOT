@@ -1,0 +1,32 @@
+[
+  {
+    "data": [
+      {
+        "text": "न्यूनतम कितनी उपस्थिति आवश्यक है?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "मुझे कितनी उपस्थिति बनाए रखनी होगी?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "कम उपस्थिति होने पर क्या होता है?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

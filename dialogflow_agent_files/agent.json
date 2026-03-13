@@ -1,0 +1,11 @@
+{
+  "language": "en",
+  "supportedLanguages": [
+    "hi",
+    "gu"
+  ],
+  "webhook": {
+    "available": true
+  },
+  "defaultTimezone": "Asia/Kolkata"
+}

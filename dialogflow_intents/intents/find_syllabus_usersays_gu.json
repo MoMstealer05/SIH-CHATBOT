@@ -1,0 +1,41 @@
+[
+    {
+        "id": "9658ad6e-af91-48e9-a710-20c1736ac4fc",
+        "data": [
+            {
+                "text": "મને સિલેબસ ક્યાંથી મળશે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "4eb2fc11-d6ef-4c6a-9ee8-078da240536b",
+        "data": [
+            {
+                "text": "શું તમે મને કમ્પ્યુટર એન્જિનિયરિંગનો સિલેબસ આપી શકો છો?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "6653588e-71ec-4c36-b86c-a03135624d2f",
+        "data": [
+            {
+                "text": "મારે પ્રથમ વર્ષનો સિલેબસ જોઈએ છે.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    }
+]

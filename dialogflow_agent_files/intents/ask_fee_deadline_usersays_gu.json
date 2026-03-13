@@ -1,0 +1,42 @@
+[
+  {
+    "data": [
+      {
+        "text": "ફી ભરવાની છેલ્લી તારીખ ક્યારે છે?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "કોલેજની ફી ક્યારે ભરવાની છે?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "સેમેસ્ટર ફી માટેની છેલ્લી તારીખ શું છે?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "શું નિયત તારીખ પછી ફી ભરી શકાય?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

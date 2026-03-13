@@ -1,0 +1,41 @@
+[
+    {
+        "id": "8d932d12-fa96-4ca6-b73d-d029ac55da64",
+        "data": [
+            {
+                "text": "હું મારી કોલેજની ફી કેવી રીતે ભરી શકું?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "bea132c4-4261-4c1b-a055-77b5efc3068b",
+        "data": [
+            {
+                "text": "ફી માટે વિવિધ ચુકવણી પદ્ધતિઓ કઈ છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "9f902263-2499-411a-a990-cf469b27eea4",
+        "data": [
+            {
+                "text": "શું હું મારી ફી ઓનલાઈન ભરી શકું?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    }
+]

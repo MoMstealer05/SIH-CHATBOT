@@ -1,0 +1,41 @@
+[
+    {
+        "id": "50f524d0-f0c6-4dee-babf-2fddeffded23",
+        "data": [
+            {
+                "text": "ચિટિંગ અંગેની નીતિ શું છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "c52139fc-c480-44e8-9ce8-6688173e611c",
+        "data": [
+            {
+                "text": "જો કોઈ વિદ્યાર્થી સાહિત્યચોરી કરતા પકડાય તો શું થાય?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "97aba8fc-14c3-418b-998f-1590f015091d",
+        "data": [
+            {
+                "text": "મને શૈક્ષણિક ગેરરીતિની નીતિ વિશે કહો.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    }
+]

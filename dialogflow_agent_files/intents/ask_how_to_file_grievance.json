@@ -1,0 +1,12 @@
+{
+  "name": "ask_how_to_file_grievance",
+  "auto": true,
+  "webhookUsed": true,
+  "responses": [
+    {
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {}
+    }
+  ]
+}

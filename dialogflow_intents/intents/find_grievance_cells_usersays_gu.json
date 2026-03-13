@@ -1,0 +1,28 @@
+[
+    {
+        "id": "c4f4d2a2-0419-4435-b318-fe328974606d",
+        "data": [
+            {
+                "text": "ફરિયાદ નિવારણ સેલની યાદી",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "1bb1e84b-d5b4-4a6b-8945-583d4ddf1368",
+        "data": [
+            {
+                "text": "ફરિયાદો માટે કોનો સંપર્ક કરવો?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    }
+]

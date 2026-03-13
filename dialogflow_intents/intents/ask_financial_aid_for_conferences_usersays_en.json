@@ -1,0 +1,67 @@
+[
+    {
+        "id": "e8b7061c-8ea8-487b-8152-a9578f500883",
+        "data": [
+            {
+                "text": "Does the college provide financial aid for attending conferences?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "7b49870a-d6e9-4fad-a721-7e8a3b019e73",
+        "data": [
+            {
+                "text": "Is there funding for students to go to technical events?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "991fa6e3-53fa-402f-903f-9244da796f88",
+        "data": [
+            {
+                "text": "How can I get sponsorship for a conference?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "91577cbd-29fa-4112-baf7-fe4bd327c8b0",
+        "data": [
+            {
+                "text": "kya college conferences attend karne ke liye financial aid deta hai?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "c7718e85-fc4f-4e78-ac81-762e4ef63c1e",
+        "data": [
+            {
+                "text": "shu college conference ma bhag leva mate financial sahay pure pade chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    }
+]

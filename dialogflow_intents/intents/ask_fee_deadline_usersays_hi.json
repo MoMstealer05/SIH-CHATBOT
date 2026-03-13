@@ -1,0 +1,54 @@
+[
+    {
+        "id": "aff5bb86-5fb6-432c-9ac2-b5dab0743fc2",
+        "data": [
+            {
+                "text": "फीस की अंतिम तिथि क्या है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "b5185a7e-036a-4b40-afc2-01bcff559a43",
+        "data": [
+            {
+                "text": "फीस कब तक भरनी है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "2b193234-193d-48b5-a9d9-adb7baad1de1",
+        "data": [
+            {
+                "text": "कॉलेज की फीस कब देय है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "56a38f88-952f-4fba-88ed-7e6c9bd4ce1e",
+        "data": [
+            {
+                "text": "सेमेस्टर फीस की अंतिम तिथि क्या है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    }
+]

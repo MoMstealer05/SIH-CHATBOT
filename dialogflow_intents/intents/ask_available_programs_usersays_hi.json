@@ -1,0 +1,41 @@
+[
+    {
+        "id": "f60c12d5-9e8b-4d3e-97b1-06b133f32932",
+        "data": [
+            {
+                "text": "आप कौन से पाठ्यक्रम प्रदान करते हैं?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "55c02960-f7df-4742-aa6e-ed5399db267f",
+        "data": [
+            {
+                "text": "इस कॉलेज में कौन से कार्यक्रम उपलब्ध हैं?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "14be0785-741a-4b3b-8710-b146849024c6",
+        "data": [
+            {
+                "text": "क्या आपके पास कंप्यूटर विज्ञान कार्यक्रम है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    }
+]

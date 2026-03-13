@@ -1,0 +1,145 @@
+[
+    {
+        "id": "82435cb5-d81e-4c29-8f50-23ed13478c62",
+        "data": [
+            {
+                "text": "How do I file a grievance?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "aa5a5018-e9b5-4166-b23d-8448ed96a343",
+        "data": [
+            {
+                "text": "What is the procedure for submitting a complaint?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "8e18f25d-1fa8-41c1-8843-dd9584ed94a7",
+        "data": [
+            {
+                "text": "Who should I contact to report an issue?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "d4000043-cc3c-4407-a181-91c6a4363049",
+        "data": [
+            {
+                "text": "Is there a student grievance cell?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "c945acfb-3bd0-491b-9d73-cc5851f70e47",
+        "data": [
+            {
+                "text": "I want to file a formal complaint.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "d97039e7-572b-44af-aea2-f68b106fda85",
+        "data": [
+            {
+                "text": "grievance kaise file karu?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "2ca297c6-47d0-4083-b88b-27a18dac4e32",
+        "data": [
+            {
+                "text": "complaint submit karne ka procedure kya hai?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "f7777d45-d654-49bb-89fe-2756e9809138",
+        "data": [
+            {
+                "text": "student grievance cell hai kya?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "fbccc247-fdb5-4d30-8efc-caa683108b14",
+        "data": [
+            {
+                "text": "fariyad kevi rite dakhal karu?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "966294f9-65c1-4ed4-879c-f08ddeac83e6",
+        "data": [
+            {
+                "text": "fariyad dakhal karvani prakriya shu chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "f377c07b-4c03-4dff-b087-c3d5c90a906e",
+        "data": [
+            {
+                "text": "shu vidyarthi fariyad nivaran cell chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    }
+]

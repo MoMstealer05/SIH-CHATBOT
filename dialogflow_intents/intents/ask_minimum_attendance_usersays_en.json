@@ -1,0 +1,145 @@
+[
+    {
+        "id": "91e6db76-8836-4254-85e6-237cab5fa1d6",
+        "data": [
+            {
+                "text": "What is the minimum attendance required?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "cecaa4c6-3066-499f-a85e-f63c9f7678d8",
+        "data": [
+            {
+                "text": "How much attendance do I need to maintain?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "04499e94-e6cc-4a93-a502-656cfd2547e8",
+        "data": [
+            {
+                "text": "Is there a compulsory attendance policy?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "b901f684-0fce-4dc7-8041-adb95e5683aa",
+        "data": [
+            {
+                "text": "What happens if my attendance is low?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "af6a1152-d5b8-4e00-a5cb-97ce4daf0217",
+        "data": [
+            {
+                "text": "What is the percentage of attendance needed for exams?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "1306c3cb-6b17-4f31-bf16-1e50227b6296",
+        "data": [
+            {
+                "text": "minimum attendance kitni chahiye?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "37567eeb-e219-4361-a188-493a3a105e97",
+        "data": [
+            {
+                "text": "kitni attendance maintain karni hai?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "d17f50ed-83be-4cb0-af24-708bfa134717",
+        "data": [
+            {
+                "text": "attendance kam ho to kya hoga?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "06767dc6-659a-455b-8859-320af8ae15d0",
+        "data": [
+            {
+                "text": "ochhama ochhi ketli hajari joiye?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "c113bf2d-69b4-4a15-a7f9-06ba2d82a696",
+        "data": [
+            {
+                "text": "mare ketli attendance joiye?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "21535237-c24d-432b-a7aa-e24c68abc46f",
+        "data": [
+            {
+                "text": "jo mari hajari ochhi hoy to shu thay?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    }
+]

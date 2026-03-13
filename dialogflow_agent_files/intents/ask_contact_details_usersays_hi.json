@@ -1,0 +1,32 @@
+[
+  {
+    "data": [
+      {
+        "text": "मैं कॉलेज से कैसे संपर्क कर सकता हूं?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "कॉलेज का फोन नंबर क्या है?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "आधिकारिक ईमेल पता क्या है?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

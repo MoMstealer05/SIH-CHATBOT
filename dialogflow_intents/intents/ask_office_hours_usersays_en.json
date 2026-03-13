@@ -1,0 +1,106 @@
+[
+    {
+        "id": "71b04cd0-7aa7-43d7-b118-75016dd63456",
+        "data": [
+            {
+                "text": "What are the office hours?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "c3951bb3-2380-43b4-9f0a-56e9504da96e",
+        "data": [
+            {
+                "text": "When is the admin office open?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "2b7e81f4-8287-481c-a3a5-c13144012bbb",
+        "data": [
+            {
+                "text": "Office timings",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "09cdffb1-4284-4dd2-bbf3-0a2eeceb53d5",
+        "data": [
+            {
+                "text": "Till what time is the office open?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "53c9bf00-209a-4957-affd-67f13fe2ee5b",
+        "data": [
+            {
+                "text": "office hours kya hain?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "be65b20e-2a7f-4067-bf0e-378794e1808f",
+        "data": [
+            {
+                "text": "admin office kab tak open rehta hai?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "5328e67b-8763-4f18-9272-be9bae3b6208",
+        "data": [
+            {
+                "text": "office no time shu chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "630ce87e-52f3-4b3d-8c01-5ac61023abee",
+        "data": [
+            {
+                "text": "admin office kyare khulli hoy chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    }
+]

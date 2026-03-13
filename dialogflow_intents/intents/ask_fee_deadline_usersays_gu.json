@@ -1,0 +1,54 @@
+[
+    {
+        "id": "c3cb674a-c804-4247-83a2-3da7e1b5679a",
+        "data": [
+            {
+                "text": "ફી ભરવાની છેલ્લી તારીખ ક્યારે છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "a83a001b-5a34-4374-a215-0b47b4ab8392",
+        "data": [
+            {
+                "text": "કોલેજની ફી ક્યારે ભરવાની છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "f2dcebea-a38e-480c-a2e8-99754b02bca3",
+        "data": [
+            {
+                "text": "સેમેસ્ટર ફી માટેની છેલ્લી તારીખ શું છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "ca026878-f5ce-4346-893f-d323eb4b2428",
+        "data": [
+            {
+                "text": "શું નિયત તારીખ પછી ફી ભરી શકાય?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    }
+]

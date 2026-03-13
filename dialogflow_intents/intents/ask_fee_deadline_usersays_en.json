@@ -1,0 +1,236 @@
+[
+    {
+        "id": "15c620ca-9c72-4b55-9d60-eafc3eb4fb8a",
+        "data": [
+            {
+                "text": "When is the fee deadline?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "45b62c9f-7c12-4051-bcd4-01b8ce6e29b0",
+        "data": [
+            {
+                "text": "What is the last date to pay fees?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "1fc3ce9b-36be-4e25-be32-83167bf4e213",
+        "data": [
+            {
+                "text": "When are the college fees due?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "83043832-ae1b-4b1e-911f-5bf156f5e2f2",
+        "data": [
+            {
+                "text": "Tell me the fee payment deadline.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "510c890e-e13c-41f2-9eb0-f8b8bd28c26a",
+        "data": [
+            {
+                "text": "How long do I have to pay my tuition?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "59614217-8f1b-4817-9a68-704e4c30e4b8",
+        "data": [
+            {
+                "text": "What is the last day for fee submission?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "3daf0e64-2e69-41a6-892c-76759e3e79e2",
+        "data": [
+            {
+                "text": "I need to know the deadline for semester fees.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "a89714c3-2f00-4b3a-96fa-44841a2fcbbf",
+        "data": [
+            {
+                "text": "Can I pay my fees after the due date?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "a0b0a9b4-2495-49b4-8311-7c5ee56c51d9",
+        "data": [
+            {
+                "text": "Is there a late fee for payment?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "b0aea491-c6b2-49d8-9f1e-dd6e157ab96b",
+        "data": [
+            {
+                "text": "fees kab tak bharni hai?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "a7b8608e-99cb-453c-8645-fa1b580aa0d0",
+        "data": [
+            {
+                "text": "fees ki last date kya hai?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "7f1ed8db-4643-4c5a-a010-6f831884f296",
+        "data": [
+            {
+                "text": "college fees kab due hai?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "1cc37845-bca8-439e-863c-aa2a6d11c6b3",
+        "data": [
+            {
+                "text": "semester fees ki deadline kya hai?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "f26cb426-2597-4b0f-8df1-b35ecfce1961",
+        "data": [
+            {
+                "text": "late fee lagegi kya?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "24c3403d-a0a0-42df-80e2-23aa0bf49d06",
+        "data": [
+            {
+                "text": "fees bharvani chhelli tarikh kyare chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "64dce28e-3a67-4f3e-8ce4-ffe1f3853ca9",
+        "data": [
+            {
+                "text": "college ni fees kyare due chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "5ea36476-c68c-4af4-aa2e-76cb83f070a3",
+        "data": [
+            {
+                "text": "semester fees ni deadline shu chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "aa105a40-59dd-43e2-a4bf-056aa21f16a1",
+        "data": [
+            {
+                "text": "late fee lagishe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    }
+]

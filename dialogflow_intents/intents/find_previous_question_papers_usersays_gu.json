@@ -1,0 +1,41 @@
+[
+    {
+        "id": "885833bc-ff65-4352-9b17-3571d0238ec1",
+        "data": [
+            {
+                "text": "મને પાછલા વર્ષના પ્રશ્નપત્રો ક્યાંથી મળશે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "1811a43c-9874-44c5-a161-5b33546e50a8",
+        "data": [
+            {
+                "text": "મારે જૂના પરીક્ષાના પેપર જોઈએ છે.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "809a1d67-7a79-457e-a345-6f0df2132c63",
+        "data": [
+            {
+                "text": "શું તમે ગયા વર્ષના પ્રશ્નપત્રો આપી શકો છો?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "id": "5dc687bf-0c33-40c7-aa0b-90a465a185ff",
+        "data": [
+            {
+                "text": "શૈક્ષણિક પરિષદ શું કરે છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "771b2c6f-d123-4d17-a7d2-ab56f7875524",
+        "data": [
+            {
+                "text": "શૈક્ષણિક પરિષદની ભૂમિકા શું છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "68c01963-66e0-4935-a378-66b4b67b9533",
+        "data": [
+            {
+                "text": "શૈક્ષણિક પરિષદની જવાબદારીઓ શું છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    }
+]

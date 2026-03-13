@@ -1,0 +1,119 @@
+[
+    {
+        "id": "707f04eb-c62f-4fb2-bb24-78f0ce738ba7",
+        "data": [
+            {
+                "text": "List of grievance cells",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "27a79dea-2cbd-4657-b9d7-e63b9d7a6723",
+        "data": [
+            {
+                "text": "Who to contact for grievances?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "8bee48a4-b3a6-4006-85f8-1fb3eb2ac101",
+        "data": [
+            {
+                "text": "Tell me about the different grievance committees.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "57e39a9f-10f9-4e6a-b77b-2612f4d91ab6",
+        "data": [
+            {
+                "text": "Where can I find details about the anti-ragging cell?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "9160079e-146f-4674-a7ba-9fcf93d82b4b",
+        "data": [
+            {
+                "text": "Contact for women's cell.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "12e54367-cdcc-482d-a429-2738f7bface0",
+        "data": [
+            {
+                "text": "grievance cells ki list",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "79fc1f24-7a33-43df-8795-e597289eedea",
+        "data": [
+            {
+                "text": "grievances ke liye kis se contact karein?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "9d9e4578-e4c0-426a-a122-81162d3e0d83",
+        "data": [
+            {
+                "text": "fariyad nivaran cell ni yadi",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "c52b3a9b-4d44-4982-bfc3-91e2830444fa",
+        "data": [
+            {
+                "text": "fariyado mate kono sampark karvo?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    }
+]

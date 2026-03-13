@@ -1,0 +1,41 @@
+[
+    {
+        "id": "3f45fd34-50ec-451f-88f5-42a7c64457c2",
+        "data": [
+            {
+                "text": "પરીક્ષાઓ માટે પાસિંગ માપદંડ શું છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "4a19f3ee-da7c-4899-acce-381c64088d91",
+        "data": [
+            {
+                "text": "એક વિષયમાં પાસ થવા માટે કેટલા માર્ક્સની જરૂર છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "a875560b-a8d5-4ea4-9f4e-c78cffa3ab4d",
+        "data": [
+            {
+                "text": "પાસિંગ ટકાવારી કેટલી છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    }
+]

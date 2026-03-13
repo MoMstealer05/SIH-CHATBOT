@@ -1,0 +1,41 @@
+[
+    {
+        "id": "f473edb0-46c9-4de5-8070-ff59d411cb13",
+        "data": [
+            {
+                "text": "मुझे सिलेबस कहाँ मिल सकता है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "2a243c96-7421-4c5f-8077-b65c533cdeac",
+        "data": [
+            {
+                "text": "क्या आप मुझे कंप्यूटर इंजीनियरिंग का सिलेबस दे सकते हैं?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "a30bff72-2fcd-420f-b349-ae5fbc198f1e",
+        "data": [
+            {
+                "text": "मुझे पहले वर्ष का सिलेबस चाहिए।",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    }
+]

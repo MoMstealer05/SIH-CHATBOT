@@ -1,0 +1,32 @@
+[
+  {
+    "data": [
+      {
+        "text": "परीक्षाओं के लिए उत्तीर्ण होने का मानदंड क्या है?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "एक विषय में उत्तीर्ण होने के लिए कितने अंकों की आवश्यकता होती है?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "उत्तीर्ण प्रतिशत क्या है?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

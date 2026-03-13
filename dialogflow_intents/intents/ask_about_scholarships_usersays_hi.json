@@ -1,0 +1,54 @@
+[
+    {
+        "id": "e566e61e-102f-4f7b-9696-0c3860a640c2",
+        "data": [
+            {
+                "text": "कोई छात्रवृत्ति उपलब्ध है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "54376a7c-9c78-4fd4-b620-8368547d4cc7",
+        "data": [
+            {
+                "text": "मैं छात्रवृत्ति के लिए आवेदन कैसे कर सकता हूं?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "651ae1f7-1fc8-4552-b298-398f1a2962c3",
+        "data": [
+            {
+                "text": "छात्रवृत्ति के लिए पात्रता मानदंड क्या हैं?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "3a60911f-f400-41ad-9b50-ff4c2b65f9db",
+        "data": [
+            {
+                "text": "वित्तीय सहायता विकल्पों के बारे में बताएं।",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "id": "2819bcbf-da5e-4c29-99d0-b2e1255da6d0",
+        "data": [
+            {
+                "text": "હું ફરિયાદ કેવી રીતે દાખલ કરી શકું?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "8015d65e-7cbf-4843-a39b-c3f5d66a3c7f",
+        "data": [
+            {
+                "text": "ફરિયાદ દાખલ કરવાની પ્રક્રિયા શું છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "55b9a39d-c832-4541-93b6-c5a8db8b5dd0",
+        "data": [
+            {
+                "text": "શું વિદ્યાર્થી ફરિયાદ નિવારણ સેલ છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    }
+]

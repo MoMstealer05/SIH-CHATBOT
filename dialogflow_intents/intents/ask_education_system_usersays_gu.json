@@ -1,0 +1,41 @@
+[
+    {
+        "id": "44a6dc2a-a5b2-482a-9843-5dddc26ca7bb",
+        "data": [
+            {
+                "text": "કોલેજ કઈ શિક્ષણ પ્રણાલીને અનુસરે છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "95ab8759-12d3-47d5-8de6-4b8bb166e976",
+        "data": [
+            {
+                "text": "શું તે સેમેસ્ટર-આધારિત સિસ્ટમ છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "d962e201-73c3-4cf7-94b5-828f2317b7f9",
+        "data": [
+            {
+                "text": "ક્રેડિટ સિસ્ટમ કેવી રીતે કાર્ય કરે છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "id": "12e37cb6-8bae-429b-9005-516432880370",
+        "data": [
+            {
+                "text": "Is there a bus service?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "9c7d9f03-1c39-4547-941f-29d3faf33701",
+        "data": [
+            {
+                "text": "Tell me about the college transport facility.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "37b4b92f-27b9-4e60-a4e0-521affe23d8e",
+        "data": [
+            {
+                "text": "How can I use the college bus?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "05fa13fa-d015-4705-aa6b-ae0086bc71f8",
+        "data": [
+            {
+                "text": "What are the bus routes?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "a26359fc-54e0-4ab5-bb7f-5462bd79cb70",
+        "data": [
+            {
+                "text": "Is transport available from my area?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "d0f5b40f-b3bc-46b0-ac51-f1f491257d70",
+        "data": [
+            {
+                "text": "bus service hai kya?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "89f5f907-27e1-4eb1-9f47-ff2ba8720041",
+        "data": [
+            {
+                "text": "college transport facility ke bare me batao.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "1c2047be-c3f3-4d51-b9db-abc07248c692",
+        "data": [
+            {
+                "text": "bus seva chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "14e7ca16-4dd5-4e8f-818b-49a117553cb3",
+        "data": [
+            {
+                "text": "college parivahan suvidha vishe mane kaho.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    }
+]

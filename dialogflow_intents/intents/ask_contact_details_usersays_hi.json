@@ -1,0 +1,41 @@
+[
+    {
+        "id": "3e436da4-bcb6-4509-8b42-855e6630caed",
+        "data": [
+            {
+                "text": "मैं कॉलेज से कैसे संपर्क कर सकता हूं?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "844c2a65-a57b-428c-9525-080891ff5714",
+        "data": [
+            {
+                "text": "कॉलेज का फोन नंबर क्या है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "98592e91-838a-4877-87d5-922bd43e083b",
+        "data": [
+            {
+                "text": "आधिकारिक ईमेल पता क्या है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    }
+]

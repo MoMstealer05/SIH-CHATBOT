@@ -1,0 +1,41 @@
+[
+    {
+        "id": "de482768-3500-43c4-8dca-8b80e13c9d7b",
+        "data": [
+            {
+                "text": "मैं शिकायत कैसे दर्ज करूं?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "fe9a6310-1412-4086-af87-017b63ca5277",
+        "data": [
+            {
+                "text": "शिकायत प्रस्तुत करने की प्रक्रिया क्या है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "bcf1d88b-8e42-4d98-9a36-cc458956b07b",
+        "data": [
+            {
+                "text": "एक छात्र शिकायत प्रकोष्ठ है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "data": [
+      {
+        "text": "आप कौन से पाठ्यक्रम प्रदान करते हैं?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "इस कॉलेज में कौन से कार्यक्रम उपलब्ध हैं?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "क्या आपके पास कंप्यूटर विज्ञान कार्यक्रम है?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

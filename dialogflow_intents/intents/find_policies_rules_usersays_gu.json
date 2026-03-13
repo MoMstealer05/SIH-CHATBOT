@@ -1,0 +1,28 @@
+[
+    {
+        "id": "61557d7f-2674-4c9f-8503-994457de04ed",
+        "data": [
+            {
+                "text": "મને કોલેજના નિયમો ક્યાંથી મળશે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "bcc90f86-b74c-4c15-b76c-840755e40e3d",
+        "data": [
+            {
+                "text": "વિદ્યાર્થી પુસ્તિકા બતાવો.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    }
+]

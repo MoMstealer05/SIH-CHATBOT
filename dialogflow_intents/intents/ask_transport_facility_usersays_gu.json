@@ -1,0 +1,28 @@
+[
+    {
+        "id": "e7676962-53b6-432e-bd30-3ccfc8e21820",
+        "data": [
+            {
+                "text": "શું બસ સેવા છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "4b36fb87-9667-4031-b9e0-058553df6823",
+        "data": [
+            {
+                "text": "કોલેજ પરિવહન સુવિધા વિશે મને કહો.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    }
+]

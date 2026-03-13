@@ -1,0 +1,119 @@
+[
+    {
+        "id": "8c123f7d-29ca-434d-b70a-56a0294285b6",
+        "data": [
+            {
+                "text": "How long does it take to complete the B.Tech course?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "f541f04e-8637-4490-b441-525ca8d148c6",
+        "data": [
+            {
+                "text": "What is the maximum time allowed to complete my B.Tech degree?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "8a9f8bd5-e872-40da-9b7f-ec74ca57f2a3",
+        "data": [
+            {
+                "text": "What is the duration of the B.Tech program?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "cfc93c0f-903c-471d-b495-68d84d3527e4",
+        "data": [
+            {
+                "text": "Is there a time limit for finishing the B.Tech program?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "4ac647be-51c7-414a-9bad-786d4e995cae",
+        "data": [
+            {
+                "text": "How many years do I have to complete my graduation in B.Tech?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "53974c96-e990-4a22-be70-bef0ae088531",
+        "data": [
+            {
+                "text": "B.Tech course complete karne me kitna time lagta hai?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "382026ba-7e68-4d00-8698-3f89e88696d3",
+        "data": [
+            {
+                "text": "B.Tech degree complete karne ka max time kya hai?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "d9b20dbe-df41-4363-99e3-6b2c3e02bdfa",
+        "data": [
+            {
+                "text": "B.Tech course puro karva ma ketlo time lage chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "fbd56eb5-8f1e-4be3-9ba7-5cad96402433",
+        "data": [
+            {
+                "text": "B.Tech degree puri karva mate maximum time keto chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    }
+]

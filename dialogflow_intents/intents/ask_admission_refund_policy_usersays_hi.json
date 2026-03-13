@@ -1,0 +1,41 @@
+[
+    {
+        "id": "4c826bac-5c10-4ca4-ac07-013e075cc745",
+        "data": [
+            {
+                "text": "प्रवेश शुल्क वापसी नीति क्या है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "b026ca1c-100b-4ace-9a9c-85a514ba982a",
+        "data": [
+            {
+                "text": "यदि मैं अपना प्रवेश रद्द करता हूं, तो क्या मुझे धनवापसी मिलेगी?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "f5148ef3-a293-442a-9d53-70bf2b589ebc",
+        "data": [
+            {
+                "text": "क्या मुझे अपनी प्रवेश शुल्क की पूरी वापसी मिल सकती है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "id": "e380cee0-88f9-4a1a-96b5-a03096994188",
+        "data": [
+            {
+                "text": "હું કોલેજનો સંપર્ક કેવી રીતે કરી શકું?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "1107bcf9-c043-48bf-90f9-be55778fb9ea",
+        "data": [
+            {
+                "text": "કોલેજનો ફોન નંબર શું છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "3840999a-23bc-4c2a-87ba-5012f5c4bf32",
+        "data": [
+            {
+                "text": "સત્તાવાર ઇમેઇલ સરનામું શું છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "id": "9e080f51-fb7e-4314-85d6-7161b1f40aeb",
+        "data": [
+            {
+                "text": "મારે લાઇબ્રેરી કાર્ડ કેવી રીતે મેળવવું?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "d3c76c2f-644f-4d9b-a441-a7e994fb996e",
+        "data": [
+            {
+                "text": "લાઇબ્રેરી સભ્યપદ મેળવવાની પ્રક્રિયા શું છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "02ae8375-87b8-4c86-bef6-253beb7a4dad",
+        "data": [
+            {
+                "text": "લાઇબ્રેરી કાર્ડ માટે કયા દસ્તાવેજોની જરૂર છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    }
+]

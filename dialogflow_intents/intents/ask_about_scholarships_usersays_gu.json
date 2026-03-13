@@ -1,0 +1,54 @@
+[
+    {
+        "id": "23c957f7-d10d-4456-83af-cdff52362244",
+        "data": [
+            {
+                "text": "શું કોઈ શિષ્યવૃત્તિ ઉપલબ્ધ છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "183ebade-e845-44e2-b160-823ca96f8b5d",
+        "data": [
+            {
+                "text": "હું શિષ્યવૃત્તિ માટે કેવી રીતે અરજી કરી શકું?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "b34b5b6f-c5d7-4b46-81f7-cfa5e84ba1e5",
+        "data": [
+            {
+                "text": "શિષ્યવૃત્તિ માટે પાત્રતા માપદંડ શું છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "6cc4ee56-e4e5-4516-88cf-4fb329e0087e",
+        "data": [
+            {
+                "text": "મને નાણાકીય સહાયના વિકલ્પો વિશે કહો.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    }
+]

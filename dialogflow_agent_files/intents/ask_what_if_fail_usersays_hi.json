@@ -1,0 +1,32 @@
+[
+  {
+    "data": [
+      {
+        "text": "यदि मैं किसी विषय में फेल हो जाता हूं तो क्या होगा?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "यदि मुझे बैकलॉग मिलता है तो क्या होता है?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "क्या फेल होने पर दोबारा परीक्षा होती है?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

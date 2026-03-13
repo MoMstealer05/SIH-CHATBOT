@@ -1,0 +1,42 @@
+[
+  {
+    "data": [
+      {
+        "text": "શું છાત્રાલયની સુવિધા ઉપલબ્ધ છે?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "કોલેજના આવાસ વિશે મને કહો.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "છાત્રાલયનો ચાર્જ શું છે?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "શું છાત્રાલયમાં મેસની સુવિધા શામેલ છે?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

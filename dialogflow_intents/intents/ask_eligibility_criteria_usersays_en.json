@@ -1,0 +1,145 @@
+[
+    {
+        "id": "d3b23528-3ce6-495c-b9d0-cef0055483ac",
+        "data": [
+            {
+                "text": "What are the eligibility criteria for admission?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "74dc2bfa-11c9-4df6-b9b2-5fc008bcdf78",
+        "data": [
+            {
+                "text": "Who is eligible to apply for the B.E. program?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "5ba31770-9a48-483d-8fd7-0bf91545d80a",
+        "data": [
+            {
+                "text": "What are the minimum requirements for the M.E. course?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "2533540e-55e8-4063-a195-2933f5246322",
+        "data": [
+            {
+                "text": "Am I eligible for admission?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "9c2b6467-4e04-48e3-b060-3314ec9da53e",
+        "data": [
+            {
+                "text": "What percentage is required for computer engineering?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "0827fd24-ac69-4c8c-ade6-1f7bd3133cba",
+        "data": [
+            {
+                "text": "admission ke liye eligibility criteria kya hai?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "4c6574f5-eb4f-4dbf-84f8-398bade840fc",
+        "data": [
+            {
+                "text": "BE program ke liye kon eligible hai?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "2c08ff5e-9637-4d8c-8c16-f47a46008f12",
+        "data": [
+            {
+                "text": "computer engineering ke liye kitna percentage chahiye?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "d62bada0-9409-45f4-a91d-bd0ae00996fa",
+        "data": [
+            {
+                "text": "admission mate eligibility criteria shu chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "aba3858e-57b2-4af3-a52a-561bb7a6d24a",
+        "data": [
+            {
+                "text": "BE program mate kon patra chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "cb306b1a-c671-4ded-94c4-3defa4d57f7f",
+        "data": [
+            {
+                "text": "computer engineering mate ketla taka joiye?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    }
+]

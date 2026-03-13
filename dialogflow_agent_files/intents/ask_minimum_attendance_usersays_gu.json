@@ -1,0 +1,32 @@
+[
+  {
+    "data": [
+      {
+        "text": "ઓછામાં ઓછી કેટલી હાજરી જરૂરી છે?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "મારે કેટલી હાજરી જાળવવી પડશે?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "જો મારી હાજરી ઓછી હોય તો શું થાય?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

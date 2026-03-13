@@ -1,0 +1,41 @@
+[
+    {
+        "id": "ffc6d428-f4fa-4f64-9c89-b97da02162a8",
+        "data": [
+            {
+                "text": "ઓછામાં ઓછી કેટલી હાજરી જરૂરી છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "0cac7133-3410-4f5d-8df5-93f0f89dbfd1",
+        "data": [
+            {
+                "text": "મારે કેટલી હાજરી જાળવવી પડશે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "22bc44e1-2cf6-4fdb-aca5-06700d39fdaf",
+        "data": [
+            {
+                "text": "જો મારી હાજરી ઓછી હોય તો શું થાય?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "id": "945b3110-e784-4acd-b5ca-385d729245bc",
+        "data": [
+            {
+                "text": "शिकायत प्रकोष्ठों की सूची",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "7aae10a2-e403-4809-b1ea-34c7cd8fe308",
+        "data": [
+            {
+                "text": "शिकायतों के लिए किससे संपर्क करें?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    }
+]

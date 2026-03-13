@@ -1,0 +1,32 @@
+[
+  {
+    "data": [
+      {
+        "text": "તમે કયા અભ્યાસક્રમો ઓફર કરો છો?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "આ કોલેજમાં કયા પ્રોગ્રામ ઉપલબ્ધ છે?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "શું તમારી પાસે કમ્પ્યુટર સાયન્સ પ્રોગ્રામ છે?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

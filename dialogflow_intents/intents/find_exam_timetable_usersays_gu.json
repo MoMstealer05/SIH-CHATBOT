@@ -1,0 +1,28 @@
+[
+    {
+        "id": "17fb331b-fee5-454d-bfa2-f24d46c316b9",
+        "data": [
+            {
+                "text": "મને પરીક્ષાનું સમયપત્રક ક્યાંથી મળશે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "ceb8b8b5-6bd6-4123-b1ef-5f3acbe998b2",
+        "data": [
+            {
+                "text": "પરીક્ષાનું સમયપત્રક બતાવો.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    }
+]

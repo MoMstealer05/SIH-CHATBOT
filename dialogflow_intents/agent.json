@@ -1,0 +1,15 @@
+{
+    "description": "An agent for the Campus Compass chatbot.",
+    "displayName": "CampusCompassAgent",
+    "defaultLanguageCode": "en",
+    "supportedLanguageCodes": [
+        "en",
+        "hi",
+        "gu"
+    ],
+    "timeZone": "Asia/Kolkata",
+    "apiVersion": "API_VERSION_V2",
+    "matchMode": "MATCH_MODE_HYBRID",
+    "classificationThreshold": 0.3,
+    "tier": "TIER_STANDARD"
+}

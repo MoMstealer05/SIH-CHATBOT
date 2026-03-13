@@ -1,0 +1,145 @@
+[
+    {
+        "id": "3f1419cc-cd81-4a6f-94a8-2cf475b46735",
+        "data": [
+            {
+                "text": "What if I fail a subject?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "f750537b-dc0b-4ecd-b860-c5eb29a9c8be",
+        "data": [
+            {
+                "text": "What happens if I get a backlog?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "0a0086d9-0532-4db9-98ca-824873c6014d",
+        "data": [
+            {
+                "text": "Is there a re-exam if I fail?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "052f756e-43a5-4bcd-a304-a74f3d46a1d3",
+        "data": [
+            {
+                "text": "Tell me about the supplementary exams.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "ff0c28de-7e2e-4e95-a102-c55629ffbc08",
+        "data": [
+            {
+                "text": "What is the process for reappearing in an exam?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "7ec29709-a079-4479-8145-4d5a89b1aaa1",
+        "data": [
+            {
+                "text": "agar main ek subject me fail ho gaya to kya hoga?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "19b51cf6-eb49-4197-ac34-3038f4749b47",
+        "data": [
+            {
+                "text": "backlog lagne par kya hota hai?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "100cdb5a-6de4-40be-889b-1e730a31e035",
+        "data": [
+            {
+                "text": "fail hone par re-exam hota hai kya?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "d8fb0fd2-1d5a-4538-89bf-dda725233610",
+        "data": [
+            {
+                "text": "jo hu koi vishay ma fail thau to shu?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "a51a295c-9658-49b9-8f60-4730427c023d",
+        "data": [
+            {
+                "text": "jo mane backlog aave to shu thay?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "d2b04286-4383-4dc0-a07d-7c8d0aab89bd",
+        "data": [
+            {
+                "text": "jo hu fail thau to fari exam levay chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    }
+]

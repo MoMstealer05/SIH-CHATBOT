@@ -1,0 +1,28 @@
+[
+    {
+        "id": "f955c97b-3128-45a0-aa08-4a8b8e3b4fa3",
+        "data": [
+            {
+                "text": "कार्यालय का समय क्या है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "d5577652-95fb-4ace-b089-520de2d19cb9",
+        "data": [
+            {
+                "text": "एडमिन ऑफिस कब खुला रहता है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    }
+]

@@ -1,0 +1,12 @@
+{
+  "name": "ask_btech_max_completion_time",
+  "auto": true,
+  "webhookUsed": true,
+  "responses": [
+    {
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {}
+    }
+  ]
+}

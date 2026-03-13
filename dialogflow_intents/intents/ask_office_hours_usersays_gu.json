@@ -1,0 +1,28 @@
+[
+    {
+        "id": "3dd54255-0782-4411-8bca-e222c6de00e4",
+        "data": [
+            {
+                "text": "ઓફિસનો સમય શું છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "717fcc63-cf3a-4edb-955e-dc161d15ae13",
+        "data": [
+            {
+                "text": "એડમિન ઓફિસ ક્યારે ખુલ્લી રહે છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    }
+]

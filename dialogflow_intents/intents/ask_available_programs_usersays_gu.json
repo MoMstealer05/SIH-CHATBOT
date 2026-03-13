@@ -1,0 +1,41 @@
+[
+    {
+        "id": "2b0bf0fb-a7f2-41a2-9f7b-85c64b1cb57a",
+        "data": [
+            {
+                "text": "તમે કયા અભ્યાસક્રમો ઓફર કરો છો?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "04cbeb1c-183f-407e-8ba5-ca50845312df",
+        "data": [
+            {
+                "text": "આ કોલેજમાં કયા પ્રોગ્રામ ઉપલબ્ધ છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    },
+    {
+        "id": "03426fe0-0339-4c9d-bb92-b39bb4e95d5e",
+        "data": [
+            {
+                "text": "શું તમારી પાસે કમ્પ્યુટર સાયન્સ પ્રોગ્રામ છે?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "gu"
+    }
+]

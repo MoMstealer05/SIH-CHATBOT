@@ -1,0 +1,32 @@
+[
+  {
+    "data": [
+      {
+        "text": "કોલેજ કઈ શિક્ષણ પ્રણાલીને અનુસરે છે?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "શું તે સેમેસ્ટર-આધારિત સિસ્ટમ છે?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "ક્રેડિટ સિસ્ટમ કેવી રીતે કાર્ય કરે છે?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

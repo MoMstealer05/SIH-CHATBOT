@@ -1,0 +1,28 @@
+[
+    {
+        "id": "490c2b9f-094a-4133-9b7d-d8d9c1b40ae4",
+        "data": [
+            {
+                "text": "मुझे अकादमिक कैलेंडर कहां मिल सकता है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "4879111a-b0a5-4cf9-b02c-fac6794e8a4a",
+        "data": [
+            {
+                "text": "इस वर्ष का अकादमिक कैलेंडर दिखाएं।",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    }
+]

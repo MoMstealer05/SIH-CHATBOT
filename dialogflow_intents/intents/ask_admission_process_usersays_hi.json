@@ -1,0 +1,41 @@
+[
+    {
+        "id": "ab7be8b8-b7ea-4a8d-a728-73b961232a61",
+        "data": [
+            {
+                "text": "मैं प्रवेश के लिए आवेदन कैसे करूं?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "f51e82eb-5a0c-44c3-af96-e956b52d5a1d",
+        "data": [
+            {
+                "text": "प्रवेश प्रक्रिया क्या है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "22dd3553-38b4-4005-8a39-3e5ec884ba3d",
+        "data": [
+            {
+                "text": "प्रवेश के लिए कौन से दस्तावेज़ आवश्यक हैं?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "data": [
+      {
+        "text": "कौन सी छात्र समितियां हैं?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "data": [
+      {
+        "text": "छात्र सहायता के बारे में बताएं।",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

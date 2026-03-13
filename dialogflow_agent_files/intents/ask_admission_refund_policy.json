@@ -1,0 +1,12 @@
+{
+  "name": "ask_admission_refund_policy",
+  "auto": true,
+  "webhookUsed": true,
+  "responses": [
+    {
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {}
+    }
+  ]
+}

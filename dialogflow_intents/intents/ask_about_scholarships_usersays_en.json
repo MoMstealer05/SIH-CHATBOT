@@ -1,0 +1,236 @@
+[
+    {
+        "id": "6db4e539-fb1d-43c0-b656-ca6996f09482",
+        "data": [
+            {
+                "text": "Are there any scholarships available?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "60c35c53-a1e4-4194-a8d5-21fa23e68e54",
+        "data": [
+            {
+                "text": "How can I apply for a scholarship?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "cfe7583e-58d3-4ea4-b378-cf9a5a4abc72",
+        "data": [
+            {
+                "text": "What are the eligibility criteria for scholarships?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "2ef3181f-2250-4440-a118-92f2123daaad",
+        "data": [
+            {
+                "text": "Tell me about financial aid options.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "2cffc8ca-d393-42f8-9634-fe77ea6998c6",
+        "data": [
+            {
+                "text": "I need information on student grants.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "b3ba6380-cbce-4b5c-a861-14d6e87f064a",
+        "data": [
+            {
+                "text": "Where can I find the scholarship application form?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "16fba886-f046-42af-941b-664c97d9d0f1",
+        "data": [
+            {
+                "text": "What is the deadline for scholarship applications?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "8aa67e1f-dd54-43bc-b11e-729e34d7edfd",
+        "data": [
+            {
+                "text": "Are there merit-based scholarships?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "6681ff9a-8438-444d-adaa-b730449f4588",
+        "data": [
+            {
+                "text": "Can you list the available scholarships?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "fd8c07c3-e237-4304-a508-f4a730fa4844",
+        "data": [
+            {
+                "text": "I want to know more about the scholarship program.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "5b24ef59-8b41-41f1-82b1-13be0b08e6a8",
+        "data": [
+            {
+                "text": "koi scholarship available hai?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "b2438a59-052f-4c68-9861-26a3610f6612",
+        "data": [
+            {
+                "text": "scholarship ke liye kaise apply karu?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "f77278d6-3b5f-4104-aeb9-8cc06d104275",
+        "data": [
+            {
+                "text": "scholarship eligibility criteria kya hai?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "20486a7f-18e4-433b-a6fb-3a5917d171c2",
+        "data": [
+            {
+                "text": "financial aid options ke bare me batao.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "34f0bf74-8275-45c3-9115-53cb34ef239f",
+        "data": [
+            {
+                "text": "koi scholarship chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "62d69ab2-9fc5-461a-84fd-5d10e8f30dc8",
+        "data": [
+            {
+                "text": "scholarship mate kevi rite apply karvanu?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "2b9189ed-b170-476a-9af0-d1da44f3ca93",
+        "data": [
+            {
+                "text": "scholarship mate eligibility shu chhe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "c84a693b-d7a3-44c7-a7cb-302e8d5b42b2",
+        "data": [
+            {
+                "text": "mane financial aid options vishe janavo.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    }
+]

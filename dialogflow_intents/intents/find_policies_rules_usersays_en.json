@@ -1,0 +1,119 @@
+[
+    {
+        "id": "d3abbf39-5870-4e1c-bf16-42caa1b84631",
+        "data": [
+            {
+                "text": "Where can I find college rules?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "adc58d6e-f9a6-4795-91b1-7290c6b49af3",
+        "data": [
+            {
+                "text": "Show me the student handbook.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "aa296b9e-f0ad-4e36-a6ea-c516b5b2d441",
+        "data": [
+            {
+                "text": "I need to read the code of conduct.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "f5fa7fb3-dbdb-490d-87e9-88a7837c195b",
+        "data": [
+            {
+                "text": "Rules and regulations for students.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "26e36fb4-405e-4056-aef6-65e4447e322a",
+        "data": [
+            {
+                "text": "Policy documents.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "41a18f59-6d7c-44be-9435-ba49d87cfe15",
+        "data": [
+            {
+                "text": "college ke rules kahan milenge?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "edac7af2-1860-4119-9b5f-5a6ca0739dd9",
+        "data": [
+            {
+                "text": "student handbook dikhao.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "5084b37a-8ecd-4bdb-955d-892950124a93",
+        "data": [
+            {
+                "text": "college na niyamo kyathi malshe?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    },
+    {
+        "id": "cb811805-7e46-4f6a-b3b3-06019867e1d7",
+        "data": [
+            {
+                "text": "vidyarthi pustika batavo.",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "en"
+    }
+]

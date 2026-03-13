@@ -1,0 +1,28 @@
+[
+    {
+        "id": "21c8704c-36ef-4e10-beb3-95635a6c8922",
+        "data": [
+            {
+                "text": "मुझे परीक्षा की समय सारिणी कहां मिल सकती है?",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    },
+    {
+        "id": "e8fb35c6-c3a7-477d-93c4-5cd3d5a39aba",
+        "data": [
+            {
+                "text": "परीक्षा का कार्यक्रम दिखाएं।",
+                "userDefined": false
+            }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 0,
+        "lang": "hi"
+    }
+]
